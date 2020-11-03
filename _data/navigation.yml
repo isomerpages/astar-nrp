@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Industry
+    url: /industry/
+  - title: Home
+    collection: home
+  - title: About Us
+    collection: about-us
+  - title: Research
+    collection: research
+  - title: People
+    collection: people
+  - title: Events
+    collection: events
+  - title: Media
+    resource_room: true
