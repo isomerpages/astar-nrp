@@ -31,5 +31,6 @@ sections:
     - resources:
         title: Media
         subtitle: Learn more
-        button: View More---
+        button: View More
+---
 
