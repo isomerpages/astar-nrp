@@ -1,27 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: National Robotics Programme
+description: The National Robotics Programme of Singapore looks into orchestrating the development of the local robotics ecosystem, to aid people in their everyday lives.
+image: /images/nrp-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This website is currently under construction.
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Local robotics companies contributing to the fight against COVID-19 
+        subtitle: Find out how our home-grown robotics warriors have contributed to fighting COVID-19 along with our front-liners 
         background: /images/hero-banner.png
-        button: Contact Us
+        button: Article
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
+            - title: Deployment for Trials at Tampines Round Market
+              description: Check out the latest media coverage of robots being deployed at Tampines Round Market
+              url: /contact-us/
             - title: Highlight B
               description: Important highlight B is equally important
-              url: https://gmail.com
+              url: /contact-us/
             - title: Page A
               description: Page A is important too
-              url: /privacy/
+              url: /contact-us/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
