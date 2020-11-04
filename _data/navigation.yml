@@ -17,7 +17,7 @@ links:
     collection: people
   - title: Events
     collection: events
-  - title: Media
+  - title: Outreach
     resource_room: true
   - title: Contact Us
     url: /contact-us/
