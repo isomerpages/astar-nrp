@@ -7,8 +7,8 @@ permalink: /
 notification: This website is currently under construction.
 sections:
     - hero:
-        title: Local robotics companies contributing to the fight against COVID-19 
-        subtitle: Find out how our home-grown robotics warriors have contributed to fighting COVID-19 along with our front-liners 
+        title: Fight against COVID-19 
+        subtitle: Find out how our home-grown local robotics companies have contributed to fighting COVID-19 along with our front-liners 
         background: /images/hero-banner.png
         button: Article
         url: /contact-us/
