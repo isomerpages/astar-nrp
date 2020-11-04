@@ -7,10 +7,6 @@
 logo: /images/nrp-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Industry
-    url: /industry/
   - title: Home
     collection: home
   - title: About Us
@@ -23,3 +19,7 @@ links:
     collection: events
   - title: Media
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: Industry
+    url: /industry/
