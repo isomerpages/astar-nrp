@@ -1,11 +1,11 @@
-title: Title
+title: National Robotics Programme
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-nrp.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#363a3c'
+  secondary-color: '#d6231d'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -32,7 +32,7 @@ collections:
     output: true
 resources_name: media
 
-description: An Isomer site of the Singapore Government
+description: The National Robotics Programme of Singapore
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
