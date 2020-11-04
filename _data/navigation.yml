@@ -13,11 +13,9 @@ links:
     collection: about-us
   - title: Research
     collection: research
-  - title: People
-    collection: people
   - title: Events
     collection: events
-  - title: Outreach
+  - title: Media
     resource_room: true
   - title: Contact Us
     url: /contact-us/
