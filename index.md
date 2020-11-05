@@ -7,17 +7,17 @@ permalink: /
 notification: This website is currently under construction.
 sections:
     - hero:
-        title: Fight against COVID-19 
-        subtitle: Find out how our home-grown local robotics companies have contributed to fighting COVID-19 along with our front-liners 
-        background: /images/hero-banner.png
-        button: Article
-        url: /contact-us/
+        title: LionsBot Wins Prestigious Award
+        subtitle: Local robotics company wins the prestigious Amsterdam Interclean Innovation Award 2020 with their LeoBot cleaning robot!
+        background: /images/leobot-interclean.jpeg
+        button: Link to Article
+        url: https://www.intercleanshow.com/news/articles/leobot-wins-the-amsterdam-innovation-award-2020
         key_highlights:
             - title: Deployment for Trials at Tampines Round Market
               description: Check out the latest media coverage of robots being deployed at Tampines Round Market
-              url: /contact-us/
-            - title: Highlight B
-              description: Important highlight B is equally important
+              url: https://www.straitstimes.com/singapore/here-comes-the-clean-squad-robots-tested-at-tampines-food-centre
+            - title: Fight against COVID-19 
+              description: Find out how our home-grown local robotics companies have contributed to fighting COVID-19 along with our front-liners 
               url: /contact-us/
             - title: Page A
               description: Page A is important too
