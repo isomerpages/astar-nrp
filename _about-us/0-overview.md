@@ -5,7 +5,7 @@ permalink: /about-us/overview/
 ## Opening Speech  
 >"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
   
-\- <i>Professor Quek Tong Boon, Chief Executive, National Robotics Programme</i>  
+\- *Professor Quek Tong Boon, Chief Executive, National Robotics Programme*  
   
 ## History  
 The National Robotics Taskforce was setup in 2014, with...
