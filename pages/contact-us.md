@@ -15,7 +15,7 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-	maps_link: https://goo.gl/maps/1rfnwkEbGK1wYTx36
+        maps_link: https://goo.gl/maps/1rfnwkEbGK1wYTx36
   - title: NREDO
     address:
         - 109 North Bridge Road
