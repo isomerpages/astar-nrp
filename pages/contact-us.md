@@ -30,6 +30,7 @@ contacts:
     content:
     - email: ask_nrp@hq.a-star.edu.sg
   - title: Feedback
-    content: Any feedback for us? We would love to hear what you have to say!
-    - other: Link to Gov Docs for feedback
+    content:
+    - other: Any feedback for us? We would love to hear what you have to say!
 ---
+  
