@@ -26,7 +26,7 @@ collections:
     output: true
   events:
     output: true
-resources_name: media
+resources_name: news-media
 
 description: The National Robotics Programme of Singapore
 

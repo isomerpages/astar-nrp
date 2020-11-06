@@ -29,7 +29,7 @@ sections:
         button: Button text
         url: /faq/
     - resources:
-        title: Related News and Press Releases
+        title: News and Media Releases
         subtitle: Published Articles
         button: View More
 ---
