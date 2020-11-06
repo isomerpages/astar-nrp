@@ -22,11 +22,9 @@ colors:
 collections:
   who-we-are:
     output: true
-  research:
-    output: true
   events:
     output: true
-resources_name: media
+resources_name: media, research
 
 description: The National Robotics Programme of Singapore
 

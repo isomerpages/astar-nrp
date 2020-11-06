@@ -10,7 +10,7 @@ links:
   - title: Who We Are
     collection: who-we-are
   - title: Research
-    collection: research
+    resource_room: true
   - title: Events
     collection: events
   - title: Media
