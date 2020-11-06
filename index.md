@@ -18,7 +18,7 @@ sections:
               url: https://www.straitstimes.com/singapore/here-comes-the-clean-squad-robots-tested-at-tampines-food-centre
             - title: Fight against COVID-19 
               description: Find out how our home-grown local robotics companies have contributed to fighting COVID-19 along with our front-liners 
-              url: /contact-us/
+              url: https://www.reuters.com/article/us-health-coronavirus-singapore-robot-idUSKBN22X17B
             - title: Page A
               description: Page A is important too
               url: /contact-us/
