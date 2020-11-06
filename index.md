@@ -29,8 +29,8 @@ sections:
         button: Button text
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Related News and Press Releases
+        subtitle: Published Articles
         button: View More
 ---
 
