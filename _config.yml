@@ -24,7 +24,8 @@ collections:
     output: true
   events:
     output: true
-resources_name: media, research
+resources_name: media
+resources_name: research
 
 description: The National Robotics Programme of Singapore
 
