@@ -23,14 +23,12 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
+    - email: ask_nrp@hq.a-star.edu.sg
   - title: Careers
     content:
-    - email: ask_nrp@hq.a-star.edu.sg
+    - phone: +65 6123 4567
   - title: Feedback
     content:
-    - other: Any feedback for us? We would love to hear what you have to say!
+    - other: Any feedback for us? We would love to hear what you have to say! Any text here <i>including HTML</i>
 ---
   
