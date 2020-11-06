@@ -20,13 +20,9 @@ colors:
 
 
 collections:
-  home:
-    output: true
-  about-us:
+  who-we-are:
     output: true
   research:
-    output: true
-  people:
     output: true
   events:
     output: true
