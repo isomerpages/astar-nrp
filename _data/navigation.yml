@@ -13,6 +13,8 @@ links:
     collection: research
   - title: Events
     collection: events
+  - title: Careers
+    collection: careers
   - title: News & Media
     resource_room: true
   - title: Contact Us
