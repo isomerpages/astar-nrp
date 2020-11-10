@@ -41,7 +41,7 @@
     {% for project in include.projects %}
     <div class="project">
         <span class="project-title">{{ project.title }}</span>
-        <img class="project-img" src="project-img">
+        <img class="project-img" src="{{ project.img }}">
         <span class="project-desc">{{ project.desc }}</span>
     </div>
     {% endfor %}
