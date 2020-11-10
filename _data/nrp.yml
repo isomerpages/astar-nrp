@@ -1,7 +1,7 @@
-- name: Professor Quek Tong Boon
-  position: Chief Executive NRP
+- title: Professor Quek Tong Boon
+  link: Chief Executive NRP
   description: Prof Quek has …
 
-- name: Professor Goh CHer Hiang
-  position: Chief Systems Engineer, NRP
+- title: Professor Goh CHer Hiang
+  link: Chief Systems Engineer, NRP
   description: Prof Goh has …

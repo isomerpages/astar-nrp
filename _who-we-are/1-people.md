@@ -6,7 +6,7 @@ permalink: /who-we-are/people/
 
 TEST1
 
-{% include people.html people=site.data.nrp %}
+{% include panels.html panels=site.data.nrp %}
 
 ## National Robotics R&D Programme Office (NR2PO)
 
