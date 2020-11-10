@@ -19,6 +19,10 @@
         color: #3a4245 !important;
     }
 
+    .project-img {
+        margin: 10px;
+    }
+
     .project-desc {
         font-family: "Lato", sans-serif;
         font-size: 16px;
@@ -37,6 +41,7 @@
     {% for project in include.projects %}
     <div class="project">
         <span class="project-title">{{ project.title }}</span>
+        <img class="project-img" src="project-img">
         <span class="project-desc">{{ project.desc }}</span>
     </div>
     {% endfor %}
