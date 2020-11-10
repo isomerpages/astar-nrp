@@ -1,6 +1,7 @@
 title: National Robotics Programme
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-nrp.ico
+description: The National Robotics Programme of Singapore
 
 # Site colors
 colors:
@@ -29,8 +30,6 @@ collections:
   careers:
     output: true
 resources_name: news-media
-
-description: The National Robotics Programme of Singapore
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

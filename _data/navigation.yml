@@ -8,13 +8,13 @@ logo: /images/nrp-logo.svg
 
 links:
   - title: Who We Are
-    collection: who-we-are
+    url: /who-we-are/
   - title: Research
-    collection: research
+    url: /research/
   - title: Events
     collection: events
   - title: Careers
-    collection: careers
+    url: /careers/
   - title: News & Media
     resource_room: true
   - title: Contact Us
