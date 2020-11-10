@@ -8,4 +8,4 @@ Navigation & Perception are building blocks of any robotics, enabling it to make
 
 ## Projects under Navigation & Perception
 
-{% include projects.html projects=site.data.1navper %}
+{% include projects_alt.html projects=site.data.1navper %}
