@@ -4,3 +4,5 @@ permalink: /research/nav-per/
 third_nav_title: Themes
 ---
 Projects under Navigation & Perception
+
+{% include projects.html projects=site.data.1navper %}
