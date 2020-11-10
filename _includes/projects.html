@@ -21,12 +21,8 @@
 
     .project-img {
         padding: 10px;
-        max-height: 100px;
-    }
-
-    .project-img > img {
-        max-width: 100%;
-        max-height: 100%;
+        max-height: 200px;
+        object-fit: cover;
     }
 
     .project-desc {
@@ -47,9 +43,7 @@
     {% for project in include.projects %}
     <div class="project">
         <span class="project-title">{{ project.title }}</span>
-        <div class="project-img">
-            <img src="{{ project.img }}" src="/images/placeholder.jpg">
-        </div>
+        <img class="project-img" src="{{ project.img }}" src="/images/placeholder.jpg">
         <span class="project-desc">{{ project.desc }}</span>
     </div>
     {% endfor %}
