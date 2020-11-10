@@ -19,7 +19,7 @@
         font-weight: 600;
     }
 
-    .person-position {
+    .person-post {
         font-family: "Lato", sans-serif;
         font-size: 16px;
         margin: 10px 0 !important;
@@ -28,7 +28,7 @@
         color: #037e8a !important;
     }
 
-    .person-description {
+    .person-desc {
         font-family: "Lato", sans-serif;
         font-size: 14px;
         font-weight: 600;
@@ -47,8 +47,8 @@
     {% for person in include.people %}
     <div class="person">
         <span class="person-name">{{ person.name }}</span>
-        <span class="person-position">{{ person.position }}</span>
-        <span class="person-description">{{ person.description }}</span>
+        <span class="person-post">{{ person.post }}</span>
+        <span class="person-desc">{{ person.desc }}</span>
     </div>
     {% endfor %}
 
