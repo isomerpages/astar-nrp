@@ -4,7 +4,7 @@ permalink: /who-we-are/people/
 ---
 ## National Robotics Programme
 
-TEST
+TEST1
 
 {% include people.html data=site.data.nrp %}
 
