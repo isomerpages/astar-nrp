@@ -5,4 +5,4 @@ third_nav_title: Themes
 ---
 Projects under Navigation & Perception
 
-{% include projects.html projects=site.data.research.navper %}
+{% include projects.html projects=site.data.navper %}
