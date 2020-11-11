@@ -20,6 +20,7 @@
     }
 
     .project-img {
+        margin-top: 10px;
         padding: 10px;
         max-height: 200px;
         object-fit: cover;
@@ -47,7 +48,7 @@
 
     {% for project in include.projects %}
     <div class="project">
-        <span class="project-title">{{ project.title }}</span>
+        <h3>{{ project.title }}</h3>
         <img class="project-img" src="{{ project.img }}" src="/images/placeholder.jpg">
         <span class="project-desc">{{ project.desc }}</span>
         <p class="project-date">Project end date: {{ project.date }}</p>
