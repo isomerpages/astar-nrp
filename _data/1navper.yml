@@ -3,7 +3,17 @@
   desc: ROS-based navigation stack developed for robots to orientate, localise, and interact in an environment filled with people.
   img: /images/placeholder.jpg
 
-- title: AiSkin: Next Generation Intelligent Robot Tactile Sensor
+- title: "AiSkin: Next Generation Intelligent Robot Tactile Sensor"
   date: 7 Mar 2021
   desc: Next generation sensor that would provide neuromorphic capabilities to robots as input.
+  img: /images/placeholder.jpg
+
+- title: Semantic and Map-lite Indoor Visual Navigation (SML)
+  date: 4 Aug 2021
+  desc: Semnatic labelling of 3D point cloud with indoor close-quarters navigation.
+  img: /images/placeholder.jpg
+
+- title: Highly Sensitive Tactile Sensor
+  date: 30 Jun 2022
+  desc: Tactile sensor that allows the deployment of an array to create an umbrella of nodes for input.
   img: /images/placeholder.jpg
