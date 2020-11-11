@@ -1,7 +1,9 @@
-- title: Autonomous Navigation (ANALOARS)
+- title: Autonomous Navigation using Advanced Localization & Obstacle Avoidance with Reconfigurable Sensors(ANALOARS)
+  date: 7 Aug 2019
   desc: Navigation stack that was developed based on ROS for ...
   img: /images/placeholder.jpg
 
-- title: Semantic Map Lite
+- title: Semantic and Map-lite Indoor Visual Navigation (SML)
+  date: 4 Aug 2021
   desc: Semnatic labelling of ...
   img: /images/placeholder.jpg
