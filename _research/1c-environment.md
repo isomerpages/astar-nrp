@@ -4,7 +4,7 @@ permalink: /research/environment/
 third_nav_title: Domains
 ---
 ## Overview  
-Environment public use cases in Singapore is a large area to cover, tedious work, and manpower intensive. Robotics comes in to ease out the manpower shortages faced in this sector.
+Maintaining the environment for public use cases in Singapore requires tedious work and large coverage, and is manpower intensive. Robotics could help ease the manpower requirements within this sector.
 
 ## Projects related to Environment
 

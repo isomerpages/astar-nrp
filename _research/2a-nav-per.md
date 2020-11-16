@@ -4,7 +4,7 @@ permalink: /research/nav-per/
 third_nav_title: Themes
 ---
 ## Overview  
-Navigation & perception are building blocks of any robotics, enabling it to make sense of its position from its surroundings.
+Navigation & perception are building blocks of any robotics, enabling it to make sense of its position from its surroundings - and move to its desired location for tasks.
 
 ## Projects under Navigation & Perception
 

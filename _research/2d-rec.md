@@ -4,7 +4,7 @@ permalink: /research/rec/
 third_nav_title: Themes
 ---
 ## Overview  
-Reconfiguration is a capability to enhance the operational aspect of robots.
+Reconfiguration allows the robots to change their shape to suit the needs of fulfilling tasks or moving around the environment.
 
 ## Projects under Reconfigurable Robotics
 

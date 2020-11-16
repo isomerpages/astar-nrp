@@ -4,7 +4,7 @@ permalink: /research/hri/
 third_nav_title: Themes
 ---
 ## Overview  
-A key enabler for robots to interact and communicate with people for augmenting and uplifting their work and lives.
+A key enabler for robots to interact and communicate with people, augmenting and uplifting their work and lives.
 
 ## Projects under Human-Robot Interaction
 

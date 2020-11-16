@@ -4,7 +4,7 @@ permalink: /research/uni-end/
 third_nav_title: Themes
 ---
 ## Overview  
-End effectors serves as the point of contact for a robot with the physical surroundings.
+End effectors serves as the point of contact for a robot with the physical surroundings. More effective end effectors would mean more effective automation for assembly tasks, allowing humans to take up higher priority tasks.
 
 ## Projects under Universal End Effectors
 
