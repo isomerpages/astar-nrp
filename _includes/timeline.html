@@ -107,7 +107,7 @@
 <div class="timeline">
 
     {% for event in include.events %}
-    <div class="container" {{ event.side }}>
+    <div class="container {{ event.side }}">
         <div class="content">
             <div class="event-date">{{ event.date }}</div>
             <h4>{{ event.title }}</h4>
