@@ -13,11 +13,11 @@ colors:
     - title: media-color-two
       color: '#4b5459'
     - title: media-color-three
-      color: '#00838f'
+      color: '#004e91'
     - title: media-color-four
-      color: '#00838f'
+      color: '#8f0000'
     - title: media-color-five
-      color: '#00838f'
+      color: '#009144'
 
 
 collections:
