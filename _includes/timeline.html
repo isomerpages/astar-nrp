@@ -48,7 +48,7 @@
         left: -16px;
     }
 
-    .content {
+    .event-content {
         padding: 20px 30px;
         background-color: white;
         position: relative;
@@ -78,7 +78,6 @@
     .event-desc {
         font-family: "Lato", sans-serif;
         font-size: 16px;
-        margin-top: 10px;
     }
 
     @media only screen and (max-width: 600px) {
@@ -105,8 +104,8 @@
 <div class="timeline">
 
     {% for event in include.events %}
-    <div class="container" {{ event.side }}>
-        <div class="content">
+    <div class="container {{ event.side }}">
+        <div class="event-content">
             <div class="event-date">{{ event.date }}</div>
             <h4>{{ event.title }}</h4>
             <p class="event-desc">{{ event.desc }}</p>
