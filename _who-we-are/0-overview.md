@@ -13,6 +13,8 @@ Developing the local robotics ecosystem by nurturing local talents through pipel
 ## History  
 The Robotics R&D Task Force convened in 2014 by the National Research Foundation (NRF), with Chairman Prof Quek Tong Boon, set out to identify key public sectors where there are benefits to develop robotics solutions for the mid term (3 to 5 years) and longer term (beyond 5 years) as well as to propose the long-term R&D strategy to build up robotics capbility in the local robotics ecosystem.  
   
-Today, NRP has evolved since its inception, with over 20 R&D projects and some of which has begun to bear fruits and make an impact in the lives of many for years to come.
+Today, NRP has evolved since its inception, with over 20 R&D projects and some of which has begun to bear fruits and make an impact in the lives of many for years to come.  
+  
+## Timeline  
   
 {% include timeline.html events=site.data.timeline %}
