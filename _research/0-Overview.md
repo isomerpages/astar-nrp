@@ -5,7 +5,7 @@ permalink: /research/
 ## Overview  
 The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for public-lead demand.
   
-## Robotics Enabling Capability Technology (RECT)  
+## Robotics Enabling Capability Technologies (RECT)  
 There are currently 9 focus areas of the RECT Funding Initiative.
 
 1. Navigation & Perception  
