@@ -18,8 +18,8 @@ locations:
         maps_link: https://goo.gl/maps/1rfnwkEbGK1wYTx36
   - title: NREDO
     address:
-        - 109 North Bridge Road
-        - Singapore 179097
+        - 123 Sesame Street
+        - Singapore 654321
   - title: REC HQ
     address:
         - 123 Sesame Street
