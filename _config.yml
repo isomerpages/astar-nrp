@@ -27,6 +27,10 @@ collections:
     output: true
   events:
     output: true
+  webinars:
+    output: true
+  exhibitions:
+    output: true
   careers:
     output: true
 resources_name: news-media
