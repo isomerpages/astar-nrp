@@ -27,8 +27,6 @@ collections:
     output: true
   events:
     output: true
-  webinars:
-    output: true
   exhibitions:
     output: true
   careers:
