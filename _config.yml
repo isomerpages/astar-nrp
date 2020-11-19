@@ -27,7 +27,7 @@ collections:
     output: true
   events:
     output: true
-  exhibitions:
+  archives:
     output: true
   careers:
     output: true

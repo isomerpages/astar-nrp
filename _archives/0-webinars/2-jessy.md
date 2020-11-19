@@ -1,6 +1,6 @@
 ---
 title: RoBIM
-permalink: /events/webinars/jessy
+permalink: /archives/webinars/jessy
 third_nav_title: Webinars
 ---
 ![RoBIM](/images/webinars/jessy.png)
