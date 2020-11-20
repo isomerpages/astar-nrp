@@ -7,25 +7,25 @@ permalink: /
 notification: This website is currently under construction.
 sections:
     - hero:
-        title: LionsBot Wins Prestigious Award
-        subtitle: Local robotics company wins the prestigious Amsterdam Interclean Innovation Award 2020 with their LeoBot cleaning robot!
+        title: National Robotics Programme
+        subtitle: This national level initiate is all about having robotics to empower the lives of people.
         background: /images/leobot-interclean.jpeg
-        button: Link to Article
-        url: https://www.intercleanshow.com/news/articles/leobot-wins-the-amsterdam-innovation-award-2020
+        button: About Us
+        url: /who-we-are/
         key_highlights:
-            - title: Deployment for Trials at Tampines Round Market
-              description: Check out the latest media coverage of robots being deployed at Tampines Round Market
-              url: https://www.straitstimes.com/singapore/here-comes-the-clean-squad-robots-tested-at-tampines-food-centre
-            - title: Fight against COVID-19 
-              description: Find out how our home-grown local robotics companies have contributed to fighting COVID-19 along with our front-liners 
-              url: https://www.reuters.com/article/us-health-coronavirus-singapore-robot-idUSKBN22X17B
-            - title: Page A
-              description: Page A is important too
-              url: /contact-us/
+            - title: Research & Development
+              description: Understand more about NRP's work in the public R&D sector and see the types of technologies that we develop.
+              url: /research/
+            - title: Robotics Jobs 
+              description: Looking for jobs related to Robotics? Take a look at some of the openings from our network.
+              url: /careers/
+            - title: Industry Portal
+              description: See what we have developed to assist our partners in their work. Contact us if you have an interest in the portal.
+              url: /industry/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
+        title: Partners
+        subtitle: Ecosystem Network
+        description: Our partners from the local ecosystem.
         button: Button text
         url: /faq/
     - resources:
