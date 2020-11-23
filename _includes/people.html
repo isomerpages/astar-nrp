@@ -19,6 +19,12 @@
         color: #3a4245 !important;
     }
 
+    .person-img {
+        margin-top: 10px;
+        padding: 10px;
+        object-fit: cover;
+    }
+
     .person-post {
         font-family: "Lato", sans-serif;
         font-size: 16px;
@@ -46,6 +52,7 @@
     {% for person in include.people %}
     <div class="person">
         <span class="person-name">{{ person.name }}</span>
+        <img class="project-img" src="{{ person.img }}" src="/images/placeholder-profile.jpg">
         <span class="person-post">{{ person.post }}</span>
         <span class="person-desc">{{ person.desc }}</span>
     </div>
