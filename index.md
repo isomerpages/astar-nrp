@@ -33,4 +33,3 @@ sections:
         subtitle: Published Articles
         button: View More
 ---
-{% include collaboration.html %}
