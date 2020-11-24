@@ -26,7 +26,7 @@ sections:
         title: Partners
         subtitle: Ecosystem Network
         description: Our partners from the local ecosystem.
-        button: Button text
+        button: Find out more
         url: /faq/
     - resources:
         title: News and Media Releases
