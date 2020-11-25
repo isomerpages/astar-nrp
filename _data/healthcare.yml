@@ -1,26 +1,31 @@
-- title: "Development and POC of AI-driven Robotics"
-  date: 19 May 2021
-  desc: 
-  img: /images/placeholder.jpg
-
-- title: "Development and POC of Care Assistant & Rehabilitation Enabling (CARE) Robots"
+- title: "Development of Standardised Robotics Middleware Framework"
   date: 7 Mar 2021
   desc: 
   img: /images/placeholder.jpg
 
+- title: "Development and POC of AI-driven Robotics"
+  date: 19 May 2021
+  desc: AI-driven robotics helps for last-last mile delivery (LLMD) of healthcare logistics in inpatient ward and outpatient pharmacy settings.
+  img: /images/placeholder.jpg
+
+- title: "Development and POC of Care Assistant & Rehabilitation Enabling (CARE) Robots"
+  date: 7 Mar 2021
+  desc: Robots used for labour intensive tasks such as point-to-point patient and bedside transfers, and to assist in lightening the burden on nurses to attend to patient needs.
+  img: /images/placeholder.jpg
+
 - title: Development and POC of Robotic Nursing Assistant (RNA)
   date: 9 Jun 2021
-  desc: 
+  desc: Robotic Nurse to automate day-to-day mundane tasks such as delivering food, administrating medication, and vital signs monitoring, to free up nurses time for higher value tasks.
   img: /images/placeholder.jpg
 
 - title: Development and POC of Intelligent Surgical Instrument Management (iSIM)
   date: 19 May 2021
-  desc: 
+  desc: Automated cleaning, sorting, and delivery of surgical instruments to the operating theatres to reduce the load on nurses for daily surgeries.
   img: /images/placeholder.jpg
 
 - title: "Development and POC of Nurse-Robot Teaming for Care Delivery"
   date: 19 May 2021
-  desc: 
+  desc: "Prediction of inpatient bed exits with autonomous devices to assist nurses in averting falls, and minimise nurses' exposure to cytotoxic wastes."
   img: /images/placeholder.jpg
 
 - title: A Scalable Universal Wireless Charging Platform
@@ -30,7 +35,7 @@
 
 - title: "WASP: A Highly Versatile Robot Platform For Healthcare Settings"
   date: 31 Oct 2021
-  desc: 
+  desc: "Modular nested reconfigurable robot to adapt efficiently to the uncertainties of logistics delivery, surveillance, patient handling, and cleaning/infection control."
   img: /images/placeholder.jpg
 
 - title: Standards & System Safety Evaluation Framework For Operations Of Robotic Systems In Hospital
