@@ -25,6 +25,15 @@
         color: #3a4245 !important;
     }
 
+    .career-com {
+        font-family: "Lato", sans-serif;
+        font-size: 20px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 24px !important;
+        color: #c23421 !important;
+    }
+
     .career-date {
         font-family: "Lato", sans-serif;
         font-size: 16px;
@@ -62,7 +71,8 @@
     <div class="career">
         <a href="{{ career.link}}" class="link-tag"></a>
         <span class="career-title">{{ career.title }}</span>
-        <span class="career-date">Apply by: {{ career.date }}</span>
+        <span class="career-com">{{ career.com }}</span>
+        <span>Apply by: </span><span class="career-date">{{ career.date }}</span>
         <span class="career-sum">{{ career.sum }}</span>
     </div>
     {% endfor %}
