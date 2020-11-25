@@ -4,7 +4,8 @@ permalink: /careers/1
 third_nav_title: Careers
 ---
 ## Navigation Engineer
-#### A*STAR
+##### Company
+A*STAR
   
 ##### Intro  
 Brief introduction of the job scope and what it is about, for the potential candidates to get a sense of what the work might be and what it could do for them. They should have an idea of whether they want to continue reading on, after this intro paragraph, to apply for the job.  
