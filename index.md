@@ -7,7 +7,7 @@ permalink: /
 notification: This website is currently under construction.
 sections:
     - hero:
-        title: National Robotics Programme
+        title: Robotics Empowering People
         subtitle: This national level initiate is all about having robotics to empower the lives of people.
         background: /images/leobot-interclean.jpeg
         button: About Us
