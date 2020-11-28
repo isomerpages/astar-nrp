@@ -31,6 +31,8 @@ collections:
     output: true
   careers:
     output: true
+  resources:
+    output: true
 resources_name: news-media
 
 ##################################################################################################################

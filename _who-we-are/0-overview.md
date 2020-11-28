@@ -2,7 +2,12 @@
 title: Overview
 permalink: /who-we-are/
 ---
-## Opening Speech  
+## 
+> "The next 20 years will likely be even more exciting than the last. We are in the midst of the Fourth Industrial Revolution, and the pace of change has quickened since COVID-19. Automation, robotics, AI and the IoT will not only change the way we live and work, but also how the SAF fights and operates."
+  
+\- *Heng Swee Keat, Deputy Prime Minister*  
+
+## Vision  
 >"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
   
 \- *Professor Quek Tong Boon, Chief Executive, National Robotics Programme*  
