@@ -8,19 +8,20 @@
     .partner {
         display: flex;
         flex-direction: column;
-        border-radius: 5px;
         padding: 23px;
     }
 
     .partner-img {
         margin: 10px;
-        padding: 10px;
-        object-fit: cover;
     }
 
     @media only screen and (max-width: 600px) {
         .partners {
             grid-template-columns: 100%;
+        }
+
+        .partner-img {
+            padding: 10px;
         }
     }
 
