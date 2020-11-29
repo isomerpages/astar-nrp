@@ -32,11 +32,6 @@
         margin-top: 10px;
     }
 
-    .project-date {
-        font-family: "Lato", sans-serif;
-        font-size: 12px;
-    }
-
     @media only screen and (max-width: 600px) {
         .projects {
             grid-template-columns: 100%;
@@ -51,7 +46,6 @@
         <h4>{{ project.title }}</h4>
         <img class="project-img" src="{{ project.img }}" src="/images/placeholder.jpg">
         <span class="project-desc">{{ project.desc }}</span>
-        <p class="project-date">Project end date: {{ project.date }}</p>
     </div>
     {% endfor %}
 
