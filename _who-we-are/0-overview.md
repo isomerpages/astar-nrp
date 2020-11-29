@@ -1,4 +1,4 @@
- 	---
+---
 title: Overview
 permalink: /who-we-are/
 ---
