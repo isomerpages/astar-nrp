@@ -1,5 +1,5 @@
 ---
 title: Industry
-permalink: /industry
+permalink: /partners/industry/
 ---
 This page is under construction.
