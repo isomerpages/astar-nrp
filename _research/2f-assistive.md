@@ -1,7 +1,7 @@
 ---
 title: Assistive Robotics
 permalink: /research/assistive/
-third_nav_title: Themes
+third_nav_title: Technical Focus Areas
 ---
 ## Overview  
 Assistive robotics augments human capabilities for everyday work and life.
