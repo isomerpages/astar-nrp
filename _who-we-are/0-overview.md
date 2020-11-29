@@ -3,7 +3,7 @@ title: Overview
 permalink: /who-we-are/
 ---
 ## Speech by DPM Heng  
-> "To emerge stronger as an economy, we commissioned industry-led Alliances for Action to prototype new ideas in growth areas, such as in *robotics* and the digitalisation of supply chains."
+> "To make the most of new opportunities in the post-Covid world, we set up the Emerging Stronger Task Force in May. The task force is consulting widely, and involving people from a wide spectrum of society, while putting ideas into action quickly. For a start, we will set up “Singapore Together Alliances for Action”. These alliances will be led by industry, with each prototyping new ideas within the coming months, in areas such as *robotics*, e-commerce, environmental sustainability, digitalisation of supply chains and the built environment. The key is speed and agility. Successful projects will become new shoots of growth, and generate new jobs."
   
 \- *Heng Swee Keat, Deputy Prime Minister*  
 

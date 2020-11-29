@@ -3,9 +3,11 @@ title: Overview
 permalink: /research/
 ---
 ## Overview  
-The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for public-lead demand.
+The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for public-lead demand.  
+
+There are currently 2 funding initiatives under NRP; Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS). RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics tenologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
   
-## Robotics Enabling Capability Technologies (RECT)  
+## Robotics Enabling Capability Technology (RECT)  
 There are currently 9 focus areas of the RECT Funding Initiative.
 
 1. [Navigation & Perception](/research/nav-per/)  
