@@ -21,7 +21,7 @@ The Robotics R&D Task Force convened in 2014 by the National Research Foundation
 Today, NRP has evolved since its inception with over 20 R&D projects, some of which has begun to bear fruits and make an impact in the lives of many for years to come.  
   
 ## Logo  
-![NRP Logo](/images/nrp-logo.png)
+<img src="/images/nrp-logo.png">
 The logo signifies...
     
 ## Timeline  

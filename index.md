@@ -27,7 +27,7 @@ sections:
         subtitle: Ecosystem Network
         description: Our partners from the local ecosystem.
         button: Find out more
-        url: /partners/
+        url: /partners/research/
     - resources:
         title: News and Media Releases
         subtitle: Published Articles
