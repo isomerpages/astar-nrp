@@ -1,0 +1,36 @@
+<style>
+    .partners {
+        display: grid;
+        grid-gap: 26px;
+        grid-template-columns: 25% 25% 25% 25%;
+    }
+
+    .partner {
+        display: flex;
+        flex-direction: column;
+        border-radius: 5px;
+        padding: 23px;
+    }
+
+    .partner-img {
+        margin: 10px;
+        padding: 10px;
+        object-fit: cover;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .partners {
+            grid-template-columns: 100%;
+        }
+    }
+
+</style>
+<div class="partners">
+
+    {% for partner in include.partners %}
+    <div class="partner">
+        <img class="partner-img" src="{{ partner.link }}" alt="{{ partner.name }}">
+    </div>
+    {% endfor %}
+
+</div>
