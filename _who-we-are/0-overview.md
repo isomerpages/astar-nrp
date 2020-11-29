@@ -20,10 +20,10 @@ The Robotics R&D Task Force convened in 2014 by the National Research Foundation
   
 Today, NRP has evolved since its inception with over 20 R&D projects, some of which has begun to bear fruits and make an impact in the lives of many for years to come.  
   
-## Logo  
-<img style="max-width:50%;" src="/images/nrp-logo.png">
-The logo signifies...
-    
+## Logo
+<img style="max-width:50%;margin-bottom:20px;" src="/images/nrp-logo.png">
+The NRP logo shows the head of a robot on the left, with a human on the right, within a border which defines the constructs of society, working together in harmony. Robots are here to enhance jobs and make it easier for the employees, freeing up their time for higher value tasks instead of focusing on lower value work. We envision a vibrant ecosystem where robotics are empowering people.
+  
 ## Timeline  
   
 {% include timeline.html events=site.data.timeline %}
