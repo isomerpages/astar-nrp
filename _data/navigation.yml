@@ -14,7 +14,7 @@ links:
   - title: Events
     collection: events
   - title: Careers
-    collection: careers
+    url: /careers/
   - title: News & Media
     resource_room: true
   - title: Resources
