@@ -8,3 +8,4 @@ This page is dedicated to the list of useful resources for the learning and shar
 2. [Robotics Middleware Framework Core (RMF Core)](https://github.com/osrf/rmf_core)
 3. [ROS Tutorials](https://github.com/methylDragon/ros-tutorials)
 4. [Robotics Algorithms](https://github.com/AtsushiSakai/PythonRobotics#what-is-this)
+5. [Ignition Robotics](https://app.ignitionrobotics.org/fuel/models)
