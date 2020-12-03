@@ -1,11 +1,11 @@
 - title: "Robotics for Construction 4.0"
   desc: Developing robotic technolgies that could improve the building and inspection processes within construction sites.
-  img: /images/placeholder.jpg
+  img: /images/research/rfc4.png
 
 - title: "Site Monitoring Robot: Use of Robotic Integrated Total System for Site Monitoring in mega reclamation proiect"
   desc: Automated robot that could survey and monitor sites, compile landscape information and update the status to users.
-  img: /images/placeholder.jpg
+  img: /images/research/sitemonitor.png
 
 - title: "Automated Lane Closure and Re-Opening System (ALCROS)"
   desc: Automated road system that could lay out road signs and cones to close off lanes for maintenance, and collect the setup again to resume road operations.
-  img: /images/placeholder.jpg
+  img: /images/research/alcros.png

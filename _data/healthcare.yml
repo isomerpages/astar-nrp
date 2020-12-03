@@ -1,14 +1,14 @@
 - title: "Development of Standardised Robotics Middleware Framework"
   desc: 
-  img: /images/placeholder.jpg
+  img: /images/research/rmf.png
 
 - title: "Development and POC of AI-driven Robotics"
   desc: AI-driven robotics helps for last-last mile delivery (LLMD) of healthcare logistics in inpatient ward and outpatient pharmacy settings.
-  img: /images/placeholder.jpg
+  img: /images/research/aidriven.png
 
 - title: "Development and POC of Care Assistant & Rehabilitation Enabling (CARE) Robots"
   desc: Robots used for labour intensive tasks such as point-to-point patient and bedside transfers, and to assist in lightening the burden on nurses to attend to patient needs.
-  img: /images/placeholder.jpg
+  img: /images/research/care.png
 
 - title: Development and POC of Robotic Nursing Assistant (RNA)
   desc: Robotic Nurse to automate day-to-day mundane tasks such as delivering food, administrating medication, and vital signs monitoring, to free up nurses time for higher value tasks.
@@ -16,19 +16,19 @@
 
 - title: Development and POC of Intelligent Surgical Instrument Management (iSIM)
   desc: Automated cleaning, sorting, and delivery of surgical instruments to the operating theatres to reduce the load on nurses for daily surgeries.
-  img: /images/placeholder.jpg
+  img: /images/research/isim.png
 
 - title: "Development and POC of Nurse-Robot Teaming for Care Delivery"
   desc: "Prediction of inpatient bed exits with autonomous devices to assist nurses in averting falls, and minimise nurses' exposure to cytotoxic wastes."
-  img: /images/placeholder.jpg
+  img: /images/research/nrt.png
 
 - title: A Scalable Universal Wireless Charging Platform
   desc: With the advent of robotic solutions, there would be the issue of common infrastructure charging stations. Wireless charging is one way to resolve the issue of fleet charging.
-  img: /images/placeholder.jpg
+  img: /images/research/wirelesscharge.png
 
 - title: "WASP: A Highly Versatile Robot Platform For Healthcare Settings"
   desc: "Modular nested reconfigurable robot to adapt efficiently to the uncertainties of logistics delivery, surveillance, patient handling, and cleaning/infection control."
-  img: /images/placeholder.jpg
+  img: /images/research/wasp.png
 
 - title: Standards & System Safety Evaluation Framework For Operations Of Robotic Systems In Hospital
   desc: Standards for the use of robotics in hospitals are largely missing in today's landscape, for safety, reliability and standardisation purposes, even in countries such as Japan. With joint collaboration with the Japan Quality Assurance, a set of safety standards could be crafted and potentially used by many countries.

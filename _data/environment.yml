@@ -1,15 +1,15 @@
 - title: Autonomous Environmental Service Vehicles for Singapore
   desc: Service Vehicles that could autonomously navigate through designated areas and clean them, with less consrains on manpower and timing. Autonomy and eventual assessment of cleanliness
-  img: /images/placeholder.jpg
+  img: /images/research/aesv.png
 
 - title: "Toucan: A New Class of Versatile Robots for Pest Control and Drain Inspection Tasks"
   desc: Small robots that could fit into false ceilings and other facades to inspect for pests and other anomalies.
-  img: /images/placeholder.jpg
+  img: /images/research/toucan.png
 
 - title: "Development of automated system for the mass production and deployment of male Wolbachia-Aedes mosquitoes"
   desc: Automated system that could rear male Aedes mosquitoes modified with the Wolbalchia bacterium, thereby control the mosquito population and reducing the likelihood of dengue outbreaks.
-  img: /images/placeholder.jpg
+  img: /images/research/wolbachia.png
 
 - title: "Panthera: A Self-reconfigurable Class of Pavement Sweeping Robot"
   desc: A pavement sweeping robot that could autonomously clean the assigned pavement, and adjust its width according to the pavement conditions and presence of crowds.
-  img: /images/placeholder.jpg
+  img: /images/research/panthera.png
