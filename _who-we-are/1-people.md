@@ -2,16 +2,8 @@
 title: People
 permalink: /who-we-are/people/
 ---
-## National Robotics Programme
+## Meet the team
+
+Join us!
 
 {% include people.html people=site.data.nrp %}
-
-## National Robotics R&D Programme Office (NR2PO)
-
-{% include people.html people=site.data.nr2po %}
-
-## National Robotics Ecosystem Development Office (NREDO)
-
-{% include people.html people=site.data.nredo %}
-  
-## Robotics Engineering Centre HQ (REC HQ)

@@ -22,4 +22,5 @@ The NRP logo shows the head of a robot on the left, with a human on the right, w
   
 ## Organisation Structure  
 ![NRP Organisation Structure](/images/orgstruct.png)
+
 NRP comprises of 3 entities under the current construct. NR2PO deals with the public R&D of robotics solutions. NREDO focuses on the development of the robotics ecosystem and network of Singapore. REC dealing with the last mile translation of engineering work out into pre-deployment phase.
