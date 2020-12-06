@@ -13,13 +13,11 @@ links:
     collection: research
   - title: Events
     collection: events
-  - title: Careers
-    url: /careers/
   - title: News & Media
     resource_room: true
   - title: Resources
     collection: resources
-  - title: Partners
-    collection: partners
+  - title: Careers
+    url: /careers/
   - title: Contact Us
     url: /contact-us/

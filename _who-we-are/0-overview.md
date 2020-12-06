@@ -3,22 +3,14 @@ title: Overview
 permalink: /who-we-are/
 ---
 ## Speech by DPM Heng  
-> "These alliances will be led by industry, with each prototyping new ideas within the coming months, in areas such as **robotics**, e-commerce, environmental sustainability, digitalisation of supply chains and the built environment. The key is speed and agility. Successful projects will become new shoots of growth, and generate new jobs."
+> "Apart from healthcare, robotics and automation technology can be applied widely to transform sectors such as Construction, Manufacturing and Logistics. We announced the National Robotics Programme last year. We will now scale up our efforts, and in particular, work with solution providers to offer packaged solutions to SMEs at a reasonable cost. I will make available over $450 million to support the National Robotics Programme over the next three years."
   
-\- *Heng Swee Keat, Deputy Prime Minister*  
+\- *Heng Swee Keat, Deputy Prime Minister, Coordinating Minister for Economic Policies and Minister for Finance, 2016*  
 
 ## Vision  
 >"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
   
 \- *Professor Quek Tong Boon, Chief Executive, National Robotics Programme*  
-  
-## Mission  
-Developing the local robotics ecosystem by nurturing local talents through pipelines such as our research projects, helping SMEs convert into technology providers to design and build robots in Singapore. We believe that robots should work in tandem with the people to uplift jobs and create additional value, as reflected in our tagline of "Robotics Empowering People".
-  
-## History  
-The Robotics R&D Task Force convened in 2014 by the National Research Foundation (NRF), with Chairman Prof Quek Tong Boon, set out to identify key public sectors where there are benefits to develop robotics solutions for the mid term (3 to 5 years) and longer term (beyond 5 years) as well as to propose the long-term R&D strategy to build up robotics capbility in the local robotics ecosystem.  
-  
-Today, NRP has evolved since its inception with over 20 R&D projects, some of which has begun to bear fruits and make an impact in the lives of many for years to come.  
   
 ## Logo
 <img style="max-width:50%;margin-bottom:20px;" src="/images/nrp-logo.png">
@@ -27,3 +19,7 @@ The NRP logo shows the head of a robot on the left, with a human on the right, w
 ## Timeline  
   
 {% include timeline.html events=site.data.timeline %}
+  
+## Organisation Structure  
+![NRP Organisation Structure](/images/orgstruct.png)
+NRP comprises of 3 entities under the current construct. NR2PO deals with the public R&D of robotics solutions. NREDO focuses on the development of the robotics ecosystem and network of Singapore. REC dealing with the last mile translation of engineering work out into pre-deployment phase.
