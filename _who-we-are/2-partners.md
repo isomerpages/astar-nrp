@@ -1,5 +1,5 @@
 ---
-title: Research Partners
+title: Partners
 permalink: /who-we-are/partners/
 ---
 ## Stakeholders  
@@ -15,5 +15,3 @@ permalink: /who-we-are/partners/
 {% include partners.html partners=site.data.pbagent %}
   
 ## Industry  
-
-{% include partners.html partners=site.data.industry %}
