@@ -1,6 +1,6 @@
 ---
 title: Research Partners
-permalink: /partners/research/
+permalink: /who-we-are/partners/
 ---
 ## Stakeholders  
 
