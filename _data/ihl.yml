@@ -1,6 +1,3 @@
-- name: A*STAR
-  link: /images/partners/astar.png
-
 - name: National University of Singapore
   link: /images/partners/nus.png
 
@@ -12,3 +9,6 @@
 
 - name: Singapore Institute of Technology
   link: /images/partners/sit.png
+
+- name: A*STAR
+  link: /images/partners/astar.png

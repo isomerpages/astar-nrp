@@ -33,8 +33,6 @@ collections:
     output: true
   resources:
     output: true
-  partners:
-    output: true
 resources_name: news-media
 
 ##################################################################################################################

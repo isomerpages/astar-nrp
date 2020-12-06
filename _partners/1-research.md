@@ -2,14 +2,18 @@
 title: Research Partners
 permalink: /partners/research/
 ---
-## Economic Agencies  
+## Stakeholders  
 
-{% include partners.html partners=site.data.ecagent %}
+{% include partners.html partners=site.data.stakeholders %}
+  
+## Institutes of Higher Learning (IHLs)
+
+{% include partners.html partners=site.data.ihl %}
   
 ## Public Agencies  
 
 {% include partners.html partners=site.data.pbagent %}
   
-## Institutes of Higher Learning (IHLs)
+## Industry  
 
-{% include partners.html partners=site.data.ihl %}
+{% include partners.html partners=site.data.industry %}
