@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Robotics Empowering People
         subtitle: This national level initiate is all about having robotics to empower the lives of people.
-        background: /images/leobot-interclean.jpeg
+        background: /images/banner.jpg
         button: About Us
         url: /who-we-are/
         key_highlights:
