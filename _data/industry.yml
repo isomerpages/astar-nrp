@@ -16,6 +16,9 @@
 - name: Lionsbot International
   link: /images/partners/lionsbot.png
 
+- name: NCS
+  link: /images/partners/ncs.png
+
 - name: Oceania Robotics
   link: /images/partners/oceania.png
 
@@ -23,7 +26,7 @@
   link: /images/partners/orinno.png
 
 - name: Open Source Robotics Foundation (OSRF)
-  link: /images/partners/orinno.png
+  link: /images/partners/osrf.png
 
 - name: ROS Industrial Consortium Asia Pacific
   link: /images/partners/rosiapac.png
