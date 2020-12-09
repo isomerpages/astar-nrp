@@ -7,11 +7,11 @@ permalink: /
 notification: This website is currently under construction.
 sections:
     - hero:
-        title: Robotics Empowering People
-        subtitle: This national level initiate is all about having robotics to empower the lives of people.
+        title: Lionsbot wins Amsterdam Innovation Award 2020
+        subtitle: Leobot was deemed by judges to have the potential with the greatest impact on the professional cleaning sector in future.
         background: /images/banner.jpg
-        button: About Us
-        url: /who-we-are/
+        button: Read more
+        url: http://www.europeancleaningjournal.com/magazine/articles/latest-news/lionsbot-wins-amsterdam-innovation-award-2020
         key_highlights:
             - title: Research & Development
               description: Understand more about NRP's work in the public R&D sector and see the types of technologies that we develop.
