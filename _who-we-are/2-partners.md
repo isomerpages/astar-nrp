@@ -6,7 +6,7 @@ permalink: /who-we-are/partners/
 
 {% include partners.html partners=site.data.stakeholders %}
   
-## Institutes of Higher Learning (IHLs)
+## Institutes of Higher Learning (IHLs) & Research Institutes (RIs)
 
 {% include partners.html partners=site.data.ihl %}
   
