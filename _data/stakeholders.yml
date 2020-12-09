@@ -1,5 +1,5 @@
-- name: National Research Foundation
-  link: /images/partners/nrf.png
+- name: A*STAR
+  link: /images/partners/astar.png
 
 - name: Economic Development Board
   link: /images/partners/edb.png
@@ -7,5 +7,5 @@
 - name: Enterprise Singapore
   link: /images/partners/esg.png
 
-- name: A*STAR
-  link: /images/partners/astar.png
+- name: National Research Foundation
+  link: /images/partners/nrf.png

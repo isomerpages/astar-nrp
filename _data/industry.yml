@@ -1,5 +1,38 @@
-- name: Singapore Industrial Automation Association
-  link: /images/partners/siaa.png
+- name: Enway
+  link: /images/partners/enway.png
+
+- name: Geonamics
+  link: /images/partners/geonamics.png
+
+- name: Handplus Robotics
+  link: /images/partners/handplus.png
+
+- name: HOPE Technik
+  link: /images/partners/hope.png
+
+- name: IHiS
+  link: /images/partners/ihis.png
+
+- name: Lionsbot International
+  link: /images/partners/lionsbot.png
+
+- name: Oceania Robotics
+  link: /images/partners/oceania.png
+
+- name: Orinno Technology
+  link: /images/partners/orinno.png
+
+- name: Open Source Robotics Foundation (OSRF)
+  link: /images/partners/orinno.png
 
 - name: ROS Industrial Consortium Asia Pacific
   link: /images/partners/rosiapac.png
+
+- name: Singapore Industrial Automation Association
+  link: /images/partners/siaa.png
+
+- name: ST Engineering
+  link: /images/partners/ste.png
+
+- name: Xnergy Autonomous Power Technologies
+  link: /images/partners/xnergy.png

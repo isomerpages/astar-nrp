@@ -1,8 +1,8 @@
-- name: CHART
-  link: /images/partners/chart.png
-
 - name: Building and Construction Authority
   link: /images/partners/bca.png
+
+- name: CHART
+  link: /images/partners/chart.png
 
 - name: National Environment Agency
   link: /images/partners/nea.png
