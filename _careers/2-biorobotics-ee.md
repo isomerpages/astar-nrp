@@ -1,9 +1,9 @@
 ---
-title: Electrical Engineers
+title: Electrical Engineer
 permalink: /careers/2
 third_nav_title: Careers
 ---
-## Electrical Engineers
+## Electrical Engineer
 ##### Research Lab
 NUS Biorobotics Lab
   
