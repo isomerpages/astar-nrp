@@ -8,7 +8,7 @@ third_nav_title: Careers
 SUTD Aerial Innovation Research (AIR) Laboratory
   
 ##### Description  
-The Singapore University of Technology and Design (SUTD) immediately invites applications for openings for Research Fellow and Research Engineer positions in the areas of autonomous aerial robotics. Researchers will work closely with a multidisciplinary team of scientists, designers and engineers to design and develop technologies to enable collaborative manned-unmanned teaming between human operators and multiple unmanned rapid aerial platforms for search and rescue operations.
+The *Singapore University of Technology and Design* (SUTD) immediately invites applications for openings for Research Fellow and Research Engineer positions in the areas of autonomous aerial robotics. Researchers will work closely with a multidisciplinary team of scientists, designers and engineers to design and develop technologies to enable collaborative manned-unmanned teaming between human operators and multiple unmanned rapid aerial platforms for search and rescue operations.
   
 ##### Project Deliverables
 This project involves:
