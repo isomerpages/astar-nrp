@@ -12,9 +12,9 @@ The Singapore University of Technology and Design (SUTD) immediately invites app
   
 ##### Project Deliverables
 This project involves:
--Developing and designing onboard localization and navigation hardware and algorithms for high speed collision-free trajectory generation.
--Devising and prototyping the materials, mechanical and electrical elements of the aerial system to achieve efficient and highly maneuverable operations.
--Developing, implementing and evaluating advanced non-linear controllers as well as filtering/sensing algorithms unique to the platform.
+* Developing and designing onboard localization and navigation hardware and algorithms for high speed collision-free trajectory generation.
+* Devising and prototyping the materials, mechanical and electrical elements of the aerial system to achieve efficient and highly maneuverable operations.
+* Developing, implementing and evaluating advanced non-linear controllers as well as filtering/sensing algorithms unique to the platform.
    
 ##### Salary
 We offer highly competitive salary which is determined based on the applicants' research achievements, experience and qualifications. It is fixed-term and filled initially for 1 year with an option for extension for another year. 

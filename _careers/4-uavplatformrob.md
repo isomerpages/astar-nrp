@@ -12,9 +12,9 @@ The Singapore University of Technology and Design (SUTD) immediately invites app
   
 ##### Project Deliverables
 This project involves:
--Designing and developing a tethering unmanned aerial vehicle (UAV) capable of dynamically handling aerial flight with multi-modal tethering system.
--Optimizing the mechanical and electrical design of the aerial platform for power tethering-based operation as well as permitting advanced interaction tasks.
--Devising and integrating onboard and off-board sensors to allow the aerial unit to be localized accurately and precisely without GPS-based methods.
+* Designing and developing a tethering unmanned aerial vehicle (UAV) capable of dynamically handling aerial flight with multi-modal tethering system.
+* Optimizing the mechanical and electrical design of the aerial platform for power tethering-based operation as well as permitting advanced interaction tasks.
+* Devising and integrating onboard and off-board sensors to allow the aerial unit to be localized accurately and precisely without GPS-based methods.
    
 ##### Salary
 We offer highly competitive salary which is determined based on the applicants' research achievements, experience and qualifications. It is fixed-term and filled initially for 1 year with an option for extension for another year. 
