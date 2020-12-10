@@ -5,7 +5,7 @@ third_nav_title: Careers
 ---
 ## Software Engineer
 ##### Research Lab
-NUS Biorobotics Lab
+NUS Biorobotics Laboratory
   
 ##### Description  
 We are developing a range of medical robots and intelligent robots for industrial applications, such as rehabilitation robotics for individuals with neurological disorders, surgical robotics for minimally invasive surgeries, and intelligent ground robots for inspection and object identification. The successful candidates will be working on research and development for the novel actuation and mechanical systems, high performance embedded system, dynamic system modelling and control methodologies, computer vision, and machine learning. Some projects will also involve clinical study protocol design, data collection and analysis.
