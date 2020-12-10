@@ -1,9 +1,9 @@
 ---
-title: "Mechanical/Electrical/Software Engineers"
-permalink: /careers/1
+title: Software Engineers
+permalink: /careers/3
 third_nav_title: Careers
 ---
-## Mechanical/Electrical/Software Engineers
+## Software Engineers
 ##### Research Lab
 NUS Biorobotics Lab
   
@@ -11,7 +11,7 @@ NUS Biorobotics Lab
 We are developing a range of medical robots and intelligent robots for industrial applications, such as rehabilitation robotics for individuals with neurological disorders, surgical robotics for minimally invasive surgeries, and intelligent ground robots for inspection and object identification. The successful candidates will be working on research and development for the novel actuation and mechanical systems, high performance embedded system, dynamic system modelling and control methodologies, computer vision, and machine learning. Some projects will also involve clinical study protocol design, data collection and analysis.
   
 ##### Requirements  
-We are looking for highly motivated candidates with the following relevant research background: mechanical design, embedded systems and software development, electromechanical dynamic systems modeling and control, robot control, vision based sensing and control, machine learning, pattern recognition, human robot interaction, biomechanics, sensory-motor control, rehabilitation and assistive engineering, and robotics for surgery. Candidates with strong experimental experience as well as good written and spoken English skills are strongly preferred. Candidate should have obtained at least Bachelor's degree, although master or PhD degree are more preferred.
+We are looking for highly motivated candidates with the following relevant research background: embedded systems and software development, robot control, vision based sensing and control, machine learning, pattern recognition, human robot interaction. Candidates with strong experimental experience as well as good written and spoken English skills are strongly preferred. Candidate should have obtained at least Bachelor's degree, although master or PhD degree are more preferred.
   
 ##### Gross Monthly Salary
 $4000 to $6000 depending on qualifications and experience

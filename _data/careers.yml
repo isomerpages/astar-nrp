@@ -1,17 +1,35 @@
-- title: Mechanical/Electrical/Software Engineers
+- title: Mechanical Engineers
   com: NUS Biorobotics Lab
   date: "-"
   sum: Looking for engineers in wearable robotics. Multiple openings available for Research Assistant, Research Associates, and Research Fellows in Robotics.
   link: /careers/1
 
-- title: Perception Engineer
-  com: A*STAR
-  date: 1 January 2021
-  sum: Help the robot to perceive in a lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+- title: Electrical Engineers
+  com: NUS Biorobotics Lab
+  date: "-"
+  sum: Looking for engineers in wearable robotics. Multiple openings available for Research Assistant, Research Associates, and Research Fellows in Robotics.
   link: /careers/2
 
-- title: Navigation Engineer
-  com: NRP
-  date: 1 January 2021
-  sum: Help the robot to navigate in a lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+- title: Software Engineers
+  com: NUS Biorobotics Lab
+  date: "-"
+  sum: Looking for engineers in wearable robotics. Multiple openings available for Research Assistant, Research Associates, and Research Fellows in Robotics.
   link: /careers/3
+
+- title: UAV Development Roboticist
+  com: SUTD Aerial Innovation Research (AIR) Laboratory
+  date: "-"
+  sum: Openings available for Research Fellow and Research Engineer positions in the areas of autonomous aerial robotics.
+  link: /careers/4
+
+- title: UAV End-Effector Roboticist
+  com: SUTD Aerial Innovation Research (AIR) Laboratory
+  date: "-"
+  sum: Openings available for Research Fellow and Research Engineer positions in the areas of autonomous aerial robotics.
+  link: /careers/5
+
+- title: UAV Control Roboticist
+  com: SUTD Aerial Innovation Research (AIR) Laboratory
+  date: "-"
+  sum: Openings available for Research Fellow and Research Engineer positions in the areas of autonomous aerial robotics.
+  link: /careers/6
