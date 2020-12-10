@@ -17,6 +17,6 @@ NUS Biorobotics Lab
 $4000 to $6000 depending on qualifications and experience
 
 ##### Application    
-Detailed job requirements are provided at (https://wiki.nus.edu.sg/display/biorobotics/Job+Openings)
+Detailed job requirements are provided at [NUS Biorobotics Lab](https://wiki.nus.edu.sg/display/biorobotics/Job+Openings)
   
 Interested researchers and fellows should sending a CV with two external references and a letter of accomplishments, motivation and career goals to Prof. Haoyong Yu [bieyhy@nus.edu.sg](**bieyhy@nus.edu.sg**)
