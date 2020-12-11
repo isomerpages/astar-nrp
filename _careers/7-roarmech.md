@@ -15,6 +15,9 @@ We have developed a new branch of robotics namely tiling robotics and a stream o
 ##### Responsibility
    
 ##### Requirements
+* Bachelor's/Master's degree in Mechanical Engineering or related field
+* Experience designing and performing tests
+* Electromechanical system design experience is preferred
   
 ##### Application  
-We offer highly competitive salary which is determined based on the applicants' research and developmental achievements, experience, and qualifications. To apply for this opportunity, please send your resume and cover letter to [amanda_ng@sutd.edu.sg](amanda_ng@sutd.edu.sg) (Amanda Ng). 
+We offer highly competitive salary which is determined based on the applicants' research and developmental achievements, experience, and qualifications. To apply for this opportunity, please send your resume and cover letter to [amanda_ng@sutd.edu.sg](amanda_ng@sutd.edu.sg) (**Amanda Ng**). 
