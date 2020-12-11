@@ -16,7 +16,14 @@ We have developed a new branch of robotics namely tiling robotics and a stream o
 
   
 ##### Qualifications
-
+* Bachelor's/Master’s degree in Electronics/Electrical Engineering/Computer Engineering or related field
+* Experience with C or C++ on ARM embedded processor, SoC, and/or FPGA
+* Experience with scripting (Bash or Python preferred)
+* Experience in a Linux development environment
+* Experience with Robot Operating System (ROS)
+* Experience with PCB fabrication is highly preferred
+* Technical communication skills
+* Ability to participate in a cross-functional team
   
 ##### Application  
 We offer highly competitive salary which is determined based on the applicants' research and developmental achievements, experience, and qualifications. To apply for this opportunity, please send your resume and cover letter to [amanda_ng@sutd.edu.sg](amanda_ng@sutd.edu.sg) (**Amanda Ng**). 
