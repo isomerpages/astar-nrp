@@ -13,6 +13,7 @@ Our Robotics and Automation Research (ROAR) Laboratory at SUTD is a leading rese
 We have developed a new branch of robotics namely tiling robotics and a stream of associated research topics. In addition, ROAR lab is the only robotics lab globally that targets research into the design of robots, design for robot and design by robot fields. The lab is positioning itself as a catalyst in the transformation of multiple Singapore based companies into global robotic product manufacturers like Lionsbot and Oceania Robotics.
   
 ##### Responsibility
+Your primary responsibilities include:
 * Designing and developing reconfigurable robotic platforms to achieve project goal (surveillance, maintenance or payload carrying robot)
 * Implementing and researching motor specifications, wheel material and durability, and physical constraints required for locomotion and reconfigurability
 * Have a basic understanding of the electrical system of the robot so as to optimize the mechanical and electrical design
