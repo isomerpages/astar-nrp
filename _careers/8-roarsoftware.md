@@ -20,7 +20,6 @@ The Role:
 * You will build and automate test plans that provide > 90% test coverage on test services.
 * You will document the mobile applications you build.
 * You will work with product owners, platform engineers and UI/UX designers to craft the best experiences possible for our customers.
-
   
 ##### Requirements
 We are looking for teammates who have:
