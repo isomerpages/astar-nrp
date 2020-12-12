@@ -1,7 +1,7 @@
 ---
 title: UAV Control Roboticist
 permalink: /careers/research/6
-third_nav_title: Careers
+third_nav_title: Research
 ---
 ## UAV Control Roboticist
 ##### Research Lab

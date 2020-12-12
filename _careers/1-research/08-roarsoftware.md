@@ -1,7 +1,7 @@
 ---
 title: Software Engineer
 permalink: /careers/research/8
-third_nav_title: Careers
+third_nav_title: Research
 ---
 ## Software Engineer
 ##### Research Lab

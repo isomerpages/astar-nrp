@@ -1,7 +1,7 @@
 ---
 title: Computer Engineer
 permalink: /careers/research/9
-third_nav_title: Careers
+third_nav_title: Research
 ---
 ## Computer Engineer
 ##### Research Lab

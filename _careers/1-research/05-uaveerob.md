@@ -1,7 +1,7 @@
 ---
 title: UAV End-Effector Roboticist
 permalink: /careers/research/5
-third_nav_title: Careers
+third_nav_title: Research
 ---
 ## UAV End-Effector Roboticist
 ##### Research Lab

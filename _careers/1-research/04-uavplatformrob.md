@@ -1,7 +1,7 @@
 ---
 title: UAV Development Roboticist
 permalink: /careers/research/4
-third_nav_title: Careers
+third_nav_title: Research
 ---
 ## UAV Development Roboticist
 ##### Research Lab
