@@ -1,9 +1,9 @@
 ---
-title: Research Fellow (Flexible Electronics/Wearable Sensors)
+title: Research Fellow (Flexible Electronics / Wearable Sensors)
 permalink: /careers/research/10
 third_nav_title: Research
 ---
-## Research Fellow (Flexible Electronics/Wearable Sensors)
+## Research Fellow (Flexible Electronics / Wearable Sensors)
 ##### Research Lab
 NTU Main Campus
   
