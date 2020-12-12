@@ -1,6 +1,6 @@
 ---
 title: Computer Engineer
-permalink: /careers/9
+permalink: /careers/research/9
 third_nav_title: Careers
 ---
 ## Computer Engineer

@@ -1,6 +1,6 @@
 ---
 title: Software Engineer
-permalink: /careers/8
+permalink: /careers/research/8
 third_nav_title: Careers
 ---
 ## Software Engineer

@@ -1,20 +1,20 @@
 ---
-title: UAV End-Effector Roboticist
-permalink: /careers/5
+title: UAV Development Roboticist
+permalink: /careers/research/4
 third_nav_title: Careers
 ---
-## UAV End-Effector Roboticist
+## UAV Development Roboticist
 ##### Research Lab
 SUTD Aerial Innovation Research (AIR) Laboratory
   
 ##### Description  
-The **Singapore University of Technology and Design** (SUTD) immediately invites applications for openings for Research Fellow and Research Engineer positions in the areas of design and development of novel aerial robotics. Researchers will work closely with a multidisciplinary team of scientists, designers and engineers to design and develop an aerial robotic platform with agile manipulation capability. 
+The **Singapore University of Technology and Design** (SUTD) immediately invites applications for openings for Research Fellow and Research Engineer positions in the areas of design and development of novel aerial robotics. Researchers will work closely with a multidisciplinary team of scientists, designers and engineers to design and develop a tethered aerial robotic platform to perform advanced interaction tasks. 
   
 ##### Project Deliverables
 This project involves:
-* Designing, modelling and developing a unmanned aerial vehicle (UAV) with onboard serial and/or parallel-based manipulators for advanced tasks requiring manipulation at high altitudes.
-* Devising and integrating lightweight sensors and actuators to allow the aerial-based manipulator to be controlled and commanded.
-* Simulation and experimental trials to asses and evaluate the performance of the aerial-based manipulation UAV system.
+* Designing and developing a tethering unmanned aerial vehicle (UAV) capable of dynamically handling aerial flight with multi-modal tethering system.
+* Optimizing the mechanical and electrical design of the aerial platform for power tethering-based operation as well as permitting advanced interaction tasks.
+* Devising and integrating onboard and off-board sensors to allow the aerial unit to be localized accurately and precisely without GPS-based methods.
    
 ##### Salary
 We offer highly competitive salary which is determined based on the applicants' research achievements, experience and qualifications. It is fixed-term and filled initially for 1 year with an option for extension for another year. 

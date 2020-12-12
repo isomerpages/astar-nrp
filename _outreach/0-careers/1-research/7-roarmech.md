@@ -1,6 +1,6 @@
 ---
 title: Mechanical Engineer
-permalink: /careers/7
+permalink: /careers/research/7
 third_nav_title: Careers
 ---
 ## Mechanical Engineer
