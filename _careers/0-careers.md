@@ -2,4 +2,5 @@
 title: Overview
 permalink: /careers/
 ---
-{% include careers.html careers=site.data.careers %}
+We have openings in various areas:
+1. [Research](/careers/research)
