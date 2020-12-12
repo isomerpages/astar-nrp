@@ -1,7 +1,7 @@
 ---
 title: Mechanical Engineer
 permalink: /careers/research/1
-third_nav_title: Careers
+third_nav_title: Research
 ---
 ## Mechanical Engineer
 ##### Research Lab
