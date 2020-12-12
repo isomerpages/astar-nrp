@@ -29,6 +29,8 @@ collections:
     output: true
   engineering:
     output: true
+  careers:
+    output: true
   outreach:
     output: true
   archives:
