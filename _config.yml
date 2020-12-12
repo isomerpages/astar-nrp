@@ -29,11 +29,9 @@ collections:
     output: true
   engineering:
     output: true
-  events:
+  outreach:
     output: true
   archives:
-    output: true
-  careers:
     output: true
   learningcorner:
     output: true

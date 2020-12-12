@@ -15,13 +15,11 @@ links:
     collection: industry
   - title: Engineering
     collection: engineering
-  - title: Events
-    collection: events
+  - title: Outreach
+    collection: outreach
   - title: News & Media
     resource_room: true
   - title: Learning Corner
     collection: learningcorner
-  - title: Careers
-    url: /careers/
   - title: Contact Us
     url: /contact-us/
