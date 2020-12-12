@@ -1,5 +1,5 @@
 ---
 title: Industry
-permalink: /resources/industry
+permalink: /learningcorner/industry
 ---
 This page is under construction.

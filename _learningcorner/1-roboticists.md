@@ -1,6 +1,6 @@
 ---
 title: Roboticists
-permalink: /resources/roboticists
+permalink: /learningcorner/roboticists
 ---
 This page is dedicated to the list of useful resources for the learning and sharing of the technicalities of robotics.
 

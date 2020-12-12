@@ -1,5 +1,5 @@
 ---
 title: Overview
-permalink: /resources/
+permalink: /learningcorner/
 ---
 This page is under construction.

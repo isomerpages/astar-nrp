@@ -25,13 +25,17 @@ collections:
     output: true
   research:
     output: true
+  industry:
+    output: true
+  engineering:
+    output: true
   events:
     output: true
   archives:
     output: true
   careers:
     output: true
-  resources:
+  learningcorner:
     output: true
 resources_name: news-media
 

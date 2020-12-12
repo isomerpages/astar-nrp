@@ -11,12 +11,16 @@ links:
     collection: who-we-are
   - title: Research
     collection: research
+  - title: Industry
+    collection: industry
+  - title: Engineering
+    collection: engineering
   - title: Events
     collection: events
   - title: News & Media
     resource_room: true
-  - title: Resources
-    collection: resources
+  - title: Learning Corner
+    collection: learningcorner
   - title: Careers
     url: /careers/
   - title: Contact Us
