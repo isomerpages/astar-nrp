@@ -29,4 +29,4 @@ Robots integrated into a society would unlikely be working alone, but would inst
 9. [Trusted Robotics](/research/trusted/).
 
 ## Robotics Domain Specific (RDS) ## {#rds}
-The focus remains on 3 domains for the service and deployment of robotics solutions, in mainly [Healthcare](/research/healthcare/), [Environment](/research/environment/), and [Build Environment](/research/built-environment/).
+Public lead demand refers to the various public good in Singapore that looks at having robotics solutions to improve current work processes. The focus remains on 3 domains for the service and deployment of robotics solutions, in mainly [Healthcare](/research/healthcare/), [Environment](/research/environment/), and [Build Environment](/research/built-environment/).
