@@ -6,6 +6,7 @@
     }
 
     .company {
+        position: relative;
         display: flex;
         flex-direction: column;
         box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
@@ -32,6 +33,15 @@
         margin-top: 10px;
     }
 
+    .link-tag {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-bottom: 0 !important;
+    }
+
     @media only screen and (max-width: 600px) {
         .companies {
             grid-template-columns: 100%;
@@ -43,6 +53,7 @@
 
     {% for company in include.companies %}
     <div class="company">
+        <a href="{{ company.link}}" class="link-tag"></a>
         <h4>{{ company.name }}</h4>
         <img class="company-img" src="{{ company.img }}" alt="/images/placeholder.jpg">
         <span class="company-desc">{{ company.desc }}</span>
