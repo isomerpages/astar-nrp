@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /research/
+permalink: /researchdevelopment/
 ---
 ## Overview  
 The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for [public-lead demand](#rds).

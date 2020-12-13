@@ -1,6 +1,6 @@
 ---
 title: Reconfigurable Robotics
-permalink: /research/rec/
+permalink: /researchdevelopment/rec/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  

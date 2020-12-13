@@ -1,6 +1,6 @@
 ---
 title: Navigation & Perception
-permalink: /research/nav-per/
+permalink: /researchdevelopment/nav-per/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  

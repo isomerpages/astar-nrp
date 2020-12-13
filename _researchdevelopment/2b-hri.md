@@ -1,6 +1,6 @@
 ---
 title: Human-Robot Interaction
-permalink: /research/hri/
+permalink: /researchdevelopment/hri/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  

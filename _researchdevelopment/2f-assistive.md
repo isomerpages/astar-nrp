@@ -1,6 +1,6 @@
 ---
 title: Assistive Robotics
-permalink: /research/assistive/
+permalink: /researchdevelopment/assistive/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
