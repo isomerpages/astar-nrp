@@ -3,14 +3,14 @@ title: Overview
 permalink: /who-we-are/
 ---
 ## Who are we?
-The National Robotics Programme... 
+The National Robotics Programme is a public level initiative that receives funding from the government for research in robotics, and to foster robotics capabilities in Singapore, building up the local ecosystem, to cater to national issues such as labour shortages, and the aeging population.
 
 ## Our aims
 >"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
   
 \- *Professor Quek Tong Boon, Chief Executive, National Robotics Programme*  
   
-## What does our logo mean?
+## Significance of our logo
 <img style="max-width:50%;margin-bottom:20px;" src="/images/nrp-logo.png">
   
 The NRP logo shows the head of a robot on the left, with a human on the right, working together in harmony. Robots are here to enhance jobs and make it easier for the employees, freeing up their time for higher value tasks instead of focusing on lower value work. We envision a vibrant ecosystem where robotics are empowering people.
