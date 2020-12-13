@@ -1,0 +1,55 @@
+- name: Enway
+  img: /images/partners/enway.png
+  desc: Lorem ipsum
+
+- name: Geonamics
+  img: /images/partners/geonamics.png
+  desc: Lorem ipsum
+
+- name: Handplus Robotics
+  img: /images/partners/handplus.png
+  desc: Lorem ipsum
+
+- name: HOPE Technik
+  img: /images/partners/hope.png
+  desc: Lorem ipsum
+
+- name: IHiS
+  img: /images/partners/ihis.png
+  desc: Lorem ipsum
+
+- name: Lionsbot International
+  img: /images/partners/lionsbot.png
+  desc: Lorem ipsum
+
+- name: NCS
+  img: /images/partners/ncs.png
+  desc: Lorem ipsum
+
+- name: Oceania Robotics
+  img: /images/partners/oceania.png
+  desc: Lorem ipsum
+
+- name: Orinno Technology
+  img: /images/partners/orinno.png
+  desc: Lorem ipsum
+
+- name: Open Source Robotics Foundation (OSRF)
+  img: /images/partners/osrf.png
+  desc: Lorem ipsum
+
+- name: ROS Industrial Consortium Asia Pacific
+  img: /images/partners/rosiapac.png
+  desc: Lorem ipsum
+
+- name: Singapore Industrial Automation Association
+  img: /images/partners/siaa.png
+  desc: Lorem ipsum
+
+- name: ST Engineering
+  img: /images/partners/ste.png
+  desc: Lorem ipsum
+
+- name: Xnergy Autonomous Power Technologies
+  img: /images/partners/xnergy.png
+  desc: Lorem ipsum

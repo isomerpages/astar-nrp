@@ -1,0 +1,52 @@
+<style>
+    .companies {
+        display: grid;
+        grid-gap: 26px;
+        grid-template-columns: 33% 33% 33%;
+    }
+
+    .company {
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        padding: 23px;
+    }
+
+    .company-name {
+        font-family: "Lato", sans-serif;
+        font-size: 20px;
+        color: #3a4245 !important;
+    }
+
+    .company-img {
+        margin-top: 10px;
+        padding: 10px;
+        max-height: 350px;
+        object-fit: cover;
+    }
+
+    .company-desc {
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .companies {
+            grid-template-columns: 100%;
+        }
+    }
+
+</style>
+<div class="companies">
+
+    {% for company in include.companies %}
+    <div class="company">
+        <h4>{{ company.name }}</h4>
+        <img class="company-img" src="{{ company.img }}" alt="/images/placeholder.jpg">
+        <span class="company-desc">{{ company.desc }}</span>
+    </div>
+    {% endfor %}
+
+</div>
