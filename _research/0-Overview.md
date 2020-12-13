@@ -28,5 +28,5 @@ Data becomes increasingly important for high level simulation and communication.
 Robots integrated into a society would unlikely be working alone, but would instead be working hand in hand to support the human population. Multiple robots that could collaborate together would also expand their capability in achieving large scale tasks a single unit would have not accomplished.
 9. [Trusted Robotics](/research/trusted/).
 
-[## Robotics Domain Specific (RDS)](#rds)
+## Robotics Domain Specific (RDS) {:#rds}
 The focus remains on 3 domains for the service and deployment of robotics solutions, in mainly [Healthcare](/research/healthcare/), [Environment](/research/environment/), and [Build Environment](/research/built-environment/).
