@@ -1,55 +1,69 @@
 - name: Enway
+  link: https://enway.ai/
   img: /images/partners/enway.png
   desc: Lorem ipsum
 
 - name: Geonamics
+  link: https://geonamics.com.sg/
   img: /images/partners/geonamics.png
   desc: Lorem ipsum
 
 - name: Handplus Robotics
+  link: https://www.handplusrobotics.com/
   img: /images/partners/handplus.png
   desc: Lorem ipsum
 
 - name: HOPE Technik
+  link: https://www.hopetechnik.com/
   img: /images/partners/hope.png
   desc: Lorem ipsum
 
 - name: IHiS
+  link: https://www.ihis.com.sg/
   img: /images/partners/ihis.png
   desc: Lorem ipsum
 
 - name: Lionsbot International
+  link: https://www.lionsbot.com/
   img: /images/partners/lionsbot.png
   desc: Lorem ipsum
 
 - name: NCS
+  link: https://www.ncs.com.sg/public/ncs/en.html
   img: /images/partners/ncs.png
   desc: Lorem ipsum
 
 - name: Oceania Robotics
+  link: https://oceaniarobotics.com/
   img: /images/partners/oceania.png
   desc: Lorem ipsum
 
 - name: Orinno Technology
+  link: https://orinnotech.com/
   img: /images/partners/orinno.png
   desc: Lorem ipsum
 
 - name: Open Source Robotics Foundation (OSRF)
+  link: https://www.openrobotics.org/
   img: /images/partners/osrf.png
   desc: Lorem ipsum
 
 - name: ROS Industrial Consortium Asia Pacific
+  link: https://rosindustrial.org/ric-apac
   img: /images/partners/rosiapac.png
   desc: Lorem ipsum
 
 - name: Singapore Industrial Automation Association
+  link: https://www.siaa.org/
   img: /images/partners/siaa.png
   desc: Lorem ipsum
 
 - name: ST Engineering
+  link: https://www.stengg.com/
   img: /images/partners/ste.png
   desc: Lorem ipsum
 
 - name: Xnergy Autonomous Power Technologies
+  link: https://www.xnergytech.com/
   img: /images/partners/xnergy.png
   desc: Lorem ipsum
