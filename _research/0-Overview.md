@@ -3,7 +3,7 @@ title: Overview
 permalink: /research/
 ---
 ## Overview  
-The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for (public-lead demand)[#robotics-domain-specific].
+The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for (public-lead demand)[#rds].
 
 There are currently 2 funding initiatives under NRP; Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS). RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics tenologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
   
@@ -28,5 +28,5 @@ Data becomes increasingly important for high level simulation and communication.
 Robots integrated into a society would unlikely be working alone, but would instead be working hand in hand to support the human population. Multiple robots that could collaborate together would also expand their capability in achieving large scale tasks a single unit would have not accomplished.
 9. [Trusted Robotics](/research/trusted/).
 
-[Robotics Domain Specific (RDS)](#rds)
+[## Robotics Domain Specific (RDS)](#rds)
 The focus remains on 3 domains for the service and deployment of robotics solutions, in mainly [Healthcare](/research/healthcare/), [Environment](/research/environment/), and [Build Environment](/research/built-environment/).
