@@ -3,12 +3,14 @@ title: Upcoming Events
 permalink: /events/upcoming
 third_nav_title: Upcoming Events
 ---
-## Upcoming Webinars
+## Webinars
 {% include webinars.html webinars=site.data.webinars %}
   
-## Upcoming Exhibitions
-{% include webinars.html webinars=site.data.exhibitions %}
+## Exhibitions
+No upcoming exhibitions.
 
-## Upcoming Grant Calls
+## Grant Calls
+No upcoming grant calls.
 
-## Upcoming Competitions
+## Competitions
+No upcoming competitions.
