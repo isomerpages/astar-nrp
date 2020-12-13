@@ -1,6 +1,6 @@
 ---
 title: Healthcare
-permalink: /researchdevelopment/healthcare/
+permalink: /research/healthcare/
 third_nav_title: Domains
 ---
 ## Overview  

@@ -1,6 +1,6 @@
 ---
 title: Data-driven Robotics
-permalink: /researchdevelopment/ddr/
+permalink: /research/ddr/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  

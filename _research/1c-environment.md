@@ -1,6 +1,6 @@
 ---
 title: Environment
-permalink: /researchdevelopment/environment/
+permalink: /research/environment/
 third_nav_title: Domains
 ---
 ## Overview  

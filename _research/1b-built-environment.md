@@ -1,6 +1,6 @@
 ---
 title: Built Environment
-permalink: /researchdevelopment/built-environment/
+permalink: /research/built-environment/
 third_nav_title: Domains
 ---
 ## Overview  

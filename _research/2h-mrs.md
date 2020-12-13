@@ -1,6 +1,6 @@
 ---
 title: Multi-robot Systems
-permalink: /researchdevelopment/mrs/
+permalink: /research/mrs/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  

@@ -23,7 +23,7 @@ colors:
 collections:
   who-we-are:
     output: true
-  researchdevelopment:
+  research:
     output: true
   industry:
     output: true

@@ -1,6 +1,6 @@
 ---
 title: Trusted Robotics
-permalink: /researchdevelopment/trusted/
+permalink: /research/trusted/
 third_nav_title: Technical Focus Areas
 ---
 Projects under Trusted Robotics

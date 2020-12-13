@@ -1,6 +1,6 @@
 ---
 title: System Capabilities
-permalink: /researchdevelopment/syscap/
+permalink: /research/syscap/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  

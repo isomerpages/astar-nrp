@@ -1,6 +1,6 @@
 ---
 title: Universal End Effectors
-permalink: /researchdevelopment/uni-end/
+permalink: /research/uni-end/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
