@@ -1,5 +1,4 @@
 ---
-layout: resources-alt
 title: Partners
 permalink: /industry/partners/
 ---
