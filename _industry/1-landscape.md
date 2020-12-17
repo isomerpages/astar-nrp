@@ -2,7 +2,7 @@
 title: Landscape
 permalink: /industry/landscape/
 ---
-[Contact](/contact-us/) us if you would like to be listed here!
+Are you a company in Singapore that has developed or are developing robotic products and solutions? If so, we would like to get to know you! Lets get in [touch](/contact-us/).
 
 ## Robotics Companies in Singapore
 
