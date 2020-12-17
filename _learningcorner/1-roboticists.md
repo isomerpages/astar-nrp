@@ -5,7 +5,7 @@ permalink: /learningcorner/roboticists
 This page is dedicated to the list of useful resources for the learning and sharing of the technicalities of robotics.
 
 ## Disclaimer
-NRP would be in no way promoting any of the resources below. The resources serve as a means for aspiring/existing roboticists be it students, engineers, professionals, who are interested in robotics but have no idea where to start from, to refer t.
+NRP does not own and would be in no way promoting any of the resources below. The resources serve as a means for learning, for aspiring/existing roboticists be it students, engineers, professionals, who are interested in robotics but have no idea where to start from.
 
 ### Linux
 
