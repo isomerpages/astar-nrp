@@ -2,4 +2,6 @@
 title: Partners
 permalink: /industry/partners/
 ---
-Visit the [partners](/who-we-are/partners/#industry) page to find out who we are working with!
+Visit the [partners](/who-we-are/partners) page to see our partners from the public sector!
+
+{% include partners.html partners=site.data.industry %}
