@@ -14,6 +14,6 @@ permalink: /who-we-are/partners/
 
 {% include partners.html partners=site.data.pbagent %}
   
-## Industry  ## {#industry}
+## Project Partners  ## {#projectpartners}
 
 {% include partners.html partners=site.data.industry %}
