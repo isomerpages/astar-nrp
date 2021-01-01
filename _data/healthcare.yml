@@ -1,5 +1,5 @@
 - title: "Development of Standardised Robotics Middleware Framework"
-  desc: The Robotics Middleware Framework (RMF) enables interoperability among heterogeneous robot fleets while managing robot traffic that share resources such as space, building infrastructure systems (lifts, doors, etc) and other automation systems within the same facility. RMF also handles task allocation and conflict resolution among its participants (de-conflicting traffic lanes and other resources).
+  desc: 
   img: /images/research/rmf.png
 
 - title: "Development and POC of AI-driven Robotics"

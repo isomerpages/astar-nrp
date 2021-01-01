@@ -3,7 +3,7 @@ title: Overview
 permalink: /who-we-are/
 ---
 ## Who are we?
-The National Robotics Programme (NRP) is a national level programme that nurtures the robotics ecosystem in Singapore through funding research and development, to enhance the readiness of robotics technologies and solutions. Key considerations for NRP’s R&D investments include potential for impactful applications in the public sector and potential to create differentiated capabilities for our industry. Tour around our website to find out more!
+The National Robotics Programme is a public level initiative that receives funding from the government for research in robotics, and to foster robotics capabilities in Singapore, building up the local ecosystem, to cater to national issues such as labour shortages, and the aeging population. Tour around our website to find out more!
 
 ## Our aims
 >"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
