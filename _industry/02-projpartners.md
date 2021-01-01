@@ -10,4 +10,4 @@ Visit the [partners](/who-we-are/partners) page to see our partners from the pub
 
 !
 
-{% include partners.html partners=site.data.projparts %}
+{% include projparts.html projparts=site.data.projparts %}
