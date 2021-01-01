@@ -1,6 +1,6 @@
 ---
-title: Landscape
-permalink: /industry/landscape/
+title: Ecosystem Partners
+permalink: /industry/ecopart/
 ---
 Are you a company that (a) is looking for robotic products or solutions or (b) has developed or are developing robotic products and solutions in Singapore? If so, we would like to get to know you. [Get in touch with us](/contact-us/)!
 
