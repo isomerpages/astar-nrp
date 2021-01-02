@@ -45,8 +45,13 @@
 
 - name: "ISO 13849-1:2015"
   type: safety
-  link: https://www.iso.org/standard/69488.html?browse=tc
+  link: https://www.iso.org/standard/69883.html?browse=tc
   desc: "Safety of machinery - Safety-related parts of control systems - Part 1: General principles for design"
+
+- name: "ISO 13849-2:2012"
+  type: safety
+  link: https://www.iso.org/standard/53640.html?browse=tc
+  desc: "Safety of machinery - Safety-related parts of control systems - Part 2: Validation"
 
 - name: "ISO 14539:2000"
   type: normal
@@ -107,3 +112,68 @@
   type: normal
   link: https://www.iso.org/standard/68474.html?browse=tc
   desc: "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation"
+
+- name: "IEC 80601-2-78:2019"
+  type: normal
+  link: https://www.iso.org/standard/68474.html?browse=tc
+  desc: "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation"
+
+- name: "JIS B 8456"
+  type: normal
+  link: 
+  desc: "JAPAN STANDARD ON WEARABLE ROBOTS FOR LUMBAR SUPPORT (HEREAFTER, WRLS). THIS COULD BE PART OF ISO 18646."
+
+- name: "ASTM F3358"
+  type: normal
+  link: 
+  desc: "Standard Practice For Labelling and Information on Exoskeletons and Exosuits"
+
+- name: "ASTM F3323"
+  type: normal
+  link: 
+  desc: "Standard Terminology For Exoskeletons and Exosuits Practice For Labelling and Information on Exoskeletons and Exosuits"
+
+- name: "IEC 60335-1:2020 "
+  type: normal
+  link: https://webstore.iec.ch/publication/61880
+  desc: "Household and similar electrical appliances - Safety - Part 1: General requirements"
+
+- name: "IEEE 730-2014"
+  type: normal
+  link: https://standards.ieee.org/standard/730-2014.html
+  desc: "IEEE Standard for Software Quality Assurance Processes"
+
+- name: "IEEE 1059-1993"
+  type: normal
+  link: https://standards.ieee.org/standard/1059-1993.html
+  desc: "IEEE Guide for Software V&V (Verification and Validation) Plans"
+
+- name: "IEEE 1012-2016"
+  type: normal
+  link: https://standards.ieee.org/standard/1012-2016.html
+  desc: "IEEE Standard for System, Software, and Hardware Verification and Validation"
+
+- name: "ISO-25000:2005 (REPLACING ISO-9126 AND ISO-14598)"
+  type: normal
+  link: https://www.iso.org/standard/35683.html?browse=tc
+  desc: "Software Engineering - Software product Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"
+
+- name: "IEC 62061:2005"
+  type: safety
+  link: https://webstore.iec.ch/publication/6426
+  desc: "Safety of Machinery: Functional Safety of safety-related electrical, electronic and programmable electronic control systems (functional verses that of performance in ISO 13849)"
+
+- name: "IEC 60204-1:2016"
+  type: safety
+  link: https://webstore.iec.ch/publication/26036
+  desc: "Safety of Machinery - Electrical equipment of Machinery - Part 1 General Requirements"
+
+- name: "ISO 12100:2010"
+  type: safety
+  link: https://www.iso.org/standard/51528.html?browse=tc
+  desc: "Safety of machinery - General principles for design - Risk assessment and risk reduction"
+
+- name: "ISO 11161:2007"
+  type: safety
+  link: https://www.iso.org/standard/50323.html?browse=tc
+  desc: "Safety of Machinery: Integrated Manufacturing Systems - Basic Requirements (e.g. Multi-Robot-Lines)"
