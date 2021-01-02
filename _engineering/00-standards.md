@@ -9,3 +9,5 @@ Standards related to safety are highlighted in <span style="color:#d6231d">red</
 Please [contact us](/contact-us/) if there are any issues with the standards listed below. We would get back to you as soon as we can.
 
 {% include standards.html standards=site.data.standards %}
+
+<img src="/images/engineering/jis.png">

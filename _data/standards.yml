@@ -120,8 +120,8 @@
 
 - name: "JIS B 8456"
   type: normal
-  link: 
-  desc: "JAPAN STANDARD ON WEARABLE ROBOTS FOR LUMBAR SUPPORT (HEREAFTER, WRLS). THIS COULD BE PART OF ISO 18646."
+  link: https://www.normadoc.com/english/jis-b-8456-1-2017.html
+  desc: "Personal care robots - Part 1: Physical assistant robots for lumbar support"
 
 - name: "ASTM F3358"
   type: normal
