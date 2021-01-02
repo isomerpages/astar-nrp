@@ -1,0 +1,29 @@
+- name: "ISO 8373:2012"
+  type: normal
+  link: https://www.iso.org/standard/55890.html?browse=tc
+  desc: Robots and robotic devices — Vocabulary
+
+- name: "ISO 9283:1998"
+  type: normal
+  link: https://www.iso.org/standard/22244.html?browse=tc
+  desc: Manipulating industrial robots — Performance criteria and related test methods
+
+- name: "ISO 9787:2013"
+  type: normal
+  link: https://www.iso.org/standard/59444.html?browse=tc
+  desc: Robots and robotic devices — Coordinate systems and motion nomenclatures
+
+- name: "ISO 9946:1999"
+  type: normal
+  link: https://www.iso.org/standard/28794.html?browse=tc
+  desc: Manipulating industrial robots — Presentation of characteristics
+
+- name: "ISO 10218-1:2011"
+  type: safety
+  link: https://www.iso.org/standard/51330.html?browse=tc
+  desc: "Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots"
+
+- name: "ISO 10218-2:2011"
+  type: safety
+  link: https://www.iso.org/standard/41571.html?browse=tc
+  desc: "Robots and robotic devices — Safety requirements for industrial robots — Part 2: Robot systems and integration"
