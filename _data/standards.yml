@@ -27,3 +27,83 @@
   type: safety
   link: https://www.iso.org/standard/41571.html?browse=tc
   desc: "Robots and robotic devices - Safety requirements for industrial robots - Part 2: Robot systems and integration"
+
+- name: "ISO 11593:1996"
+  type: normal
+  link: https://www.iso.org/standard/19528.html?browse=tc
+  desc: "Manipulating industrial robots - Automatic end effector exchange systems - Vocabulary and presentation of characteristics"
+
+- name: "ISO/TR 13309:1995"
+  type: normal
+  link: https://www.iso.org/standard/21679.html?browse=tc
+  desc: "Manipulating industrial robots - Informative guide on test equipment and metrology methods of operation for robot performance evaluation in accordance with ISO 9283"
+
+- name: "ISO 13482:2014"
+  type: safety
+  link: https://www.iso.org/standard/53820.html?browse=tc
+  desc: "Robots and robotic devices - Safety requirements for personal care robots"
+
+- name: "ISO 13849-1:2015"
+  type: safety
+  link: https://www.iso.org/standard/69488.html?browse=tc
+  desc: "Safety of machinery - Safety-related parts of control systems - Part 1: General principles for design"
+
+- name: "ISO 14539:2000"
+  type: normal
+  link: https://www.iso.org/standard/24062.html?browse=tc
+  desc: "Manipulating industrial robots - Object handling with grasp-type grippers - Vocabulary and presentation of characteristics"
+
+- name: "ISO/TS 15066:2016"
+  type: normal
+  link: https://www.iso.org/standard/62996.html?browse=tc
+  desc: "Robots and robotic devices - Collaborative robots"
+
+- name: "ISO 18646-1:2016"
+  type: safety
+  link: https://www.iso.org/standard/63127.html?browse=tc
+  desc: "Robotics - Performance criteria and related test methods for service robots - Part 1: Locomotion for wheeled robots"
+
+- name: "ISO 18646-2:2019"
+  type: safety
+  link: https://www.iso.org/standard/69057.html?browse=tc
+  desc: "Robotics - Performance criteria and related test methods for service robots - Part 2: Navigation"
+
+- name: "ISO 19649:2017"
+  type: normal
+  link: https://www.iso.org/standard/65658.html?browse=tc
+  desc: "Mobile robots - Vocabulary"
+
+- name: "ISO/TR 20218-1:2018"
+  type: safety
+  link: https://www.iso.org/standard/69488.html?browse=tc
+  desc: "Robotics - Safety design for industrial robot systems - Part 1: End-effectors"
+
+- name: "ISO/TR 20218-2:2017"
+  type: safety
+  link: https://www.iso.org/standard/70584.html?browse=tc
+  desc: "Robotics - Safety design for industrial robot systems - Part 2: Manual load/unload stations"
+
+- name: "ISO/TR 23482-1:2020"
+  type: safety
+  link: https://www.iso.org/standard/71564.html?browse=tc
+  desc: "Robotics - Application of ISO 13482 - Part 1: Safety-related test methods"
+
+- name: "ISO/TR 23482-2:2019"
+  type: safety
+  link: https://www.iso.org/standard/71627.html?browse=tc
+  desc: "Robotics - Application of ISO 13482 - Part 2: Application guidelines"
+
+- name: "IEC/TR 60601-4-1:2017"
+  type: normal
+  link: https://www.iso.org/standard/70755.html?browse=tc
+  desc: "Medical electrical equipment - Part 4-1: Guidance and interpretation - Medical electrical equipment and medical electrical systems employing a degree of autonomy"
+
+- name: "IEC 80601-2-77:2019"
+  type: normal
+  link: https://www.iso.org/standard/68473.html?browse=tc
+  desc: "Medical electrical equipment - Part 2-77: Particular requirements for the basic safety and essential performance of robotically assisted surgical equipment"
+
+- name: "IEC 80601-2-78:2019"
+  type: normal
+  link: https://www.iso.org/standard/68474.html?browse=tc
+  desc: "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation"
