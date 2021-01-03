@@ -16,6 +16,6 @@ permalink: /who-we-are/partners/
   
 ## Project Partners  ## {#projectpartners}
 
-Visit the [ecosystem partners](/industry/ecoparts) page to see the full list of partners from the local ecosystem!
+Listed below are the list of partners that we have projects with. Visit the [ecosystem partners](/industry/ecoparts) page to see the full list of partners from the local ecosystem!
 
 {% include partners.html partners=site.data.projparts %}
