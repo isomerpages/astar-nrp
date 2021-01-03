@@ -8,7 +8,7 @@ notification: This website is currently under construction.
 sections:
     - hero:
         title: Robotics Empowering People
-        subtitle: The National Robotics Programme (NRP) of Singapore looks into orchestrating the development of the local robotics ecosystem, to aid people in their everyday lives.
+        subtitle: The National Robotics Programme (NRP) of Singapore looks into orchestrating the development of the local robotics ecosystem, to empower people in their everyday lives.
         background: /images/banner.jpg
         button: About Us
         url: /who-we-are/
