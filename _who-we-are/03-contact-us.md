@@ -28,11 +28,5 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - email: ask_nrp@hq.a-star.edu.sg
-  - title: Careers
-    content:
-    - phone: +65 6123 4567
-  - title: Feedback
-    content:
-    - other: We would love to hear what you have to say! Fill in a feedback form <a href="https://form.gov.sg/#!/5fab84f4ec6c950011f3e8ba">here</a>!
 ---
   
