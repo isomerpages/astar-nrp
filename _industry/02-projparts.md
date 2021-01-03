@@ -2,6 +2,6 @@
 title: Project Partners
 permalink: /industry/projparts/
 ---
-Listed below are the list of partners that we have projects with. Visit the [partners](/who-we-are/partners) page to see our other stakeholders from the public sector!
+Here are the companies that have partnered with us on NRP projects.
 
 {% include partners.html partners=site.data.projparts %}
