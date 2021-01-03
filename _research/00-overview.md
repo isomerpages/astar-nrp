@@ -8,7 +8,7 @@ Headed by R<sup>2</sup>DO, the R&D arm of NRP supports robotics research and dev
 RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics tenologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
   
 ## Robotics Enabling Capability Technology (RECT) ## {#rect}
-There are currently 9 focus areas of the RECT Funding Initiative.
+There are currently 9 focus areas of the RECT Funding Initiative. [Get in touch with us](/contact-us/) to find out more about the projects that we have!
 
 1. [Navigation & Perception](/research/nav-per/).
 Navigation & perception are building blocks of any robotics, enabling it to make sense of its position from its surroundings - and move to its desired location for tasks.
