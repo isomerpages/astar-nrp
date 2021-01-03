@@ -5,9 +5,12 @@ permalink: /learningcorner/roboticists
 This page is dedicated to the list of useful resources for the learning and sharing of the technicalities of robotics.
 
 ## Disclaimer
-NRP does not own and would be in no way promoting any of the resources below. The resources serve as a means for learning, for aspiring/existing roboticists be it students, engineers, professionals, who are interested in robotics but have no idea where to start from.
+The resources listed serves wholely as a means for learning, for aspiring/existing roboticists be it students, engineers, professionals, who are interested in robotics but have no idea where to start from.
+
+Feel free to [reach out to us](/contact-us/) if there are any resources that you think would be beneficial, for the learning of everyone.
 
 ### Linux
+
 
 ### ROS
 1. [Getting Started with Robotics](https://github.com/kiloreux/awesome-robotics)
