@@ -3,11 +3,11 @@ title: Overview
 permalink: /research/
 ---
 ## Overview  
-The National Robotics Programme focuses on the research and development of key Robotics enabling technologies, while having projects with the public and private sector to utilise these enabling technologies for [public-lead demand](#rds).
+Headed by R<sup>2</sup>DO, the R&D arm of NRP supports robotics research and development efforts through 2 funding initiatives; Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS).
 
-There are currently 2 funding initiatives under NRP; Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS). RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics tenologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
+RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics tenologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
   
-## Robotics Enabling Capability Technology (RECT)  
+## Robotics Enabling Capability Technology (RECT) ## {#rect}
 There are currently 9 focus areas of the RECT Funding Initiative.
 
 1. [Navigation & Perception](/research/nav-per/).
@@ -27,6 +27,7 @@ Data becomes increasingly important for high level simulation and communication.
 8. [Multi-robot Systems](/research/mrs/).
 Robots integrated into a society would unlikely be working alone, but would instead be working hand in hand to support the human population. Multiple robots that could collaborate together would also expand their capability in achieving large scale tasks a single unit would have not accomplished.
 9. [Trusted Robotics](/research/trusted/).
+Developing robotics that could be trusted and relied upon by people, thereby fostering cooperation and acceptance within the community.
 
 ## Robotics Domain Specific (RDS) ## {#rds}
 Public lead demand refers to the various public good in Singapore that looks at having robotics solutions to improve current work processes. The focus remains on 3 domains for the service and deployment of robotics solutions, in mainly [Healthcare](/research/healthcare/), [Environment](/research/environment/), and [Build Environment](/research/built-environment/).

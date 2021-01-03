@@ -18,3 +18,6 @@ Feel free to [reach out to us](/contact-us/) if there are any resources that you
 3. [ROS Tutorials](https://github.com/methylDragon/ros-tutorials)
 4. [Robotics Algorithms](https://github.com/AtsushiSakai/PythonRobotics#what-is-this)
 5. [Ignition Robotics](https://app.ignitionrobotics.org/dashboard)
+
+
+### Robot Intelligence
