@@ -8,4 +8,6 @@ Robots integrated into a society would unlikely be working alone, but would inst
 
 ## Projects under Multi-robot Systems
 
+[Get in touch with us](/contact-us/) if you are interested!
+
 {% include projects.html projects=site.data.8mrs %}

@@ -8,4 +8,6 @@ Developing robotics that could be trusted and relied upon by people, thereby fos
 
 ## Projects under Trusted Robotics
 
+[Get in touch with us](/contact-us/) if you are interested!
+
 {% include projects.html projects=site.data.9trusted %}

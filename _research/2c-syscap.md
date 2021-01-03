@@ -8,4 +8,6 @@ System capabilities which serves as the 'soul' to connect various parts of the r
 
 ## Projects under System Capabilities
 
+[Get in touch with us](/contact-us/) if you are interested!
+
 {% include projects.html projects=site.data.3syscap %}

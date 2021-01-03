@@ -8,4 +8,6 @@ Data becomes increasingly important for high level simulation and communication.
 
 ## Projects under Data-driven Robotics
 
+[Get in touch with us](/contact-us/) if you are interested!
+
 {% include projects.html projects=site.data.7ddr %}

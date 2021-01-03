@@ -8,4 +8,6 @@ Reconfiguration allows the robots to change their shape to suit the needs of ful
 
 ## Projects under Reconfigurable Robotics
 
+[Get in touch with us](/contact-us/) if you are interested!
+
 {% include projects.html projects=site.data.4rec %}
