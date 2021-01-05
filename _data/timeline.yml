@@ -1,24 +1,19 @@
 - side: left
   date: Oct 2014
   title: Robotics R&D Taskforce
-  desc: The Robotics R&D Taskforce chaired by Prof Quek was convened to identify the key public sectors for robotics to come in.
+  desc: The Robotics R&D Taskforce was convened to identify the key public sectors for robotics to come in. Shortly after, the National Robotics Programme was conceived with the task of growing the local robotics ecosystem.
 
 - side: right
   date: Mar 2017
   title: Approval for Healthcare RDS
-  desc: Test...
+  desc: The healthcare RDS programme with MOH as the public lead agency, managed by the Smart Systems Programme Office (SSPO) was approved.
 
-- side: right
+- side: left
   date: August 2017
   title: Approval for Environment RDS
-  desc: Test...
+  desc: The environment RDS programme with NEA as the public lead agency, managed by the Environment Technology Department (ETD) was approved.
 
 - side: right
   date: Jul 2018
   title: Approval for Built Environment+ RDS
-  desc: Test...
-
-- side: left
-  date: Dec 2019
-  title: Placeholder
-  desc: Test...
+  desc: The built environment RDS programme with BCA as the public lead agency, managed by the Advanced Construction & Innovation Planning (ACIP) was approved.
