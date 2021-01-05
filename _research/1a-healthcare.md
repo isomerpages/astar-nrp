@@ -4,7 +4,7 @@ permalink: /research/healthcare/
 third_nav_title: Domains
 ---
 ## Overview  
-Healthcare in Singapore is a public good, where demand driven use cases are driving the adoption of robotics in hospitals and the public health sector.
+Healthcare in Singapore is a public good, where demand driven use cases are driving the adoption of robotics in hospitals and the public health sector. The healthcare RDS programme is led by the Smart Systems Programme Office (SSPO) of MOH.
 
 ## Projects related to Healthcare
 
