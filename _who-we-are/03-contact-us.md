@@ -6,7 +6,8 @@ agency_name: National Robotics Programme
 locations:
   - title: NRP
     address:
-        - 1 Fusionopolis Way, Connexis South Tower, #19-02
+        - 1 Fusionopolis Way
+        - Connexis South Tower, #19-02
         - Singapore 138632
     operating_hours:
       - days: Mon - Fri
@@ -21,5 +22,6 @@ contacts:
     content:
     - email: alvin_goh@hq.a-star.edu.sg
     - email: tashrif_sarman@hq.a-star.edu.sg
+    - email: ong_zi_chong@hq.a-star.edu.sg
 ---
   
