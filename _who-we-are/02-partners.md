@@ -16,4 +16,4 @@ permalink: /who-we-are/partners/
   
 ## Industry Partners  ## {#industrypartners}
 
-Visit our [Industry](/industry/overview) page to see our list of industry [Project Partners](/industry/projparts/) and industry [Ecosystem Partners](/industry/ecoparts/).
+Visit our [Industry](/industry/overview) page to see our list of industry [Project Partners](/industry/indusparts/) and industry [Ecosystem Partners](/industry/ecoparts/).

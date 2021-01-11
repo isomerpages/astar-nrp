@@ -1,9 +1,9 @@
 - title: "Robotics for Construction 4.0"
-  desc: Developing robotic technolgies that could improve the building and inspection processes within construction sites.
+  desc: The objective of the project is to use a systematic approach based on Design for Manufacturing and Assembly (DfMA) paradigm for construction robotics and automation, i.e., Construction 4.0, to address the construction productivity issues.
   img: /images/research/rfc4.png
 
 - title: "Site Monitoring Robot: Use of Robotic Integrated Total System for Site Monitoring in mega reclamation proiect"
-  desc: Automated robot that could survey and monitor sites, compile landscape information and update the status to users.
+  desc: This objective of the project is to produce a Robotic Integrated Total System (RITS) to fully automate the collection, compilation and analysis of a wide range of instrumentation data for site monitoring. It promises a high productivity and eliminate possible human error in the process.
   img: /images/research/sitemonitor.png
 
 - title: "Automated Lane Closure and Re-Opening System (ALCROS)"
