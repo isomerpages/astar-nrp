@@ -2,10 +2,7 @@
 title: Roboticists
 permalink: /learningcorner/roboticists
 ---
-This page is dedicated to the list of useful resources for the learning and sharing of the technicalities of robotics.
-
-## Disclaimer
-The resources listed serves wholely as a means for learning, for aspiring/existing roboticists be it students, engineers, professionals, who are interested in robotics but have no idea where to start from.
+The resources listed here are just suggestions of resources for the learning of aspiring roboticists, and people who are interested in robotics technology but have no idea where to start.
 
 Feel free to [reach out to us](/contact-us/) if there are any resources that you think would be beneficial, for the learning of everyone.
 
