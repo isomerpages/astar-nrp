@@ -7,5 +7,5 @@
   img: /images/research/sitemonitor.png
 
 - title: "Automated Lane Closure and Re-Opening System (ALCROS)"
-  desc: Automated road system that could lay out road signs and cones to close off lanes for maintenance, and collect the setup again to resume road operations.
+  desc: The objective of the Automated Lane Closure and Re-Opening System (ALCROS) project is to develop a solution that automatically places and retrieves traffic warning signs as well as traffic cones during lane closures without any physical presence of workers on the road. The aim is to reduce the chances of lane closure associated accident fatalities by removing the necessity of having any workers on the road at all.
   img: /images/research/alcros.png
