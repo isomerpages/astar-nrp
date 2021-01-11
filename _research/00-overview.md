@@ -5,7 +5,7 @@ permalink: /research/
 ## Overview  
 Headed by R<sup>2</sup>DO, the R&D arm of NRP supports robotics research and development efforts through 2 funding initiatives; Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS).
 
-RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics tenologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
+RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics technologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
   
 ## Robotics Enabling Capability Technology (RECT) ## {#rect}
 There are currently 9 focus areas of the RECT Funding Initiative. [Get in touch with us](/contact-us/) to find out more about the projects that we have!

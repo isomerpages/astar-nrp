@@ -4,16 +4,21 @@
   desc: The Robotics R&D Taskforce was convened to identify the key public sectors for robotics to come in. Shortly after, the National Robotics Programme was conceived with the task of growing the local robotics ecosystem.
 
 - side: right
-  date: Mar 2017
-  title: Approval for Healthcare RDS
-  desc: The healthcare RDS programme with MOH as the public lead agency, managed by the Smart Systems Programme Office (SSPO) was approved.
+  date: Mar 2015
+  title: Establishment of the National Robotics Programme
+  desc: The Robotics R&D Taskforce was convened to identify the key public sectors for robotics to come in. Shortly after, the National Robotics Programme was conceived with the task of growing the local robotics ecosystem.
 
 - side: left
-  date: August 2017
-  title: Approval for Environment RDS
-  desc: The environment RDS programme with NEA as the public lead agency, managed by the Environment Technology Department (ETD) was approved.
+  date: Mar 2017
+  title: Healthcare Robotics Domain Specific programme was established in partnership with MOH
+  desc: The healthcare RDS programme with MOH as the public lead agency, managed by the Smart Systems Programme Office (SSPO) was established.
 
 - side: right
+  date: August 2017
+  title: Environment Robotics Domain Specific programme was established in partnership with NEA
+  desc: The environment RDS programme with NEA as the public lead agency, managed by the Environment Technology Department (ETD) was established.
+
+- side: left
   date: Jul 2018
-  title: Approval for Built Environment+ RDS
-  desc: The built environment RDS programme with BCA as the public lead agency, managed by the Advanced Construction & Innovation Planning (ACIP) was approved.
+  title: Built Environment Robotics Domain Specific programme was established in partnership with BCA
+  desc: The built environment RDS programme with BCA as the public lead agency, managed by the Advanced Construction & Innovation Planning (ACIP) was established.
