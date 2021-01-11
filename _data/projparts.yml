@@ -1,38 +1,51 @@
 - name: Enway
-  link: /images/partners/enway.png
+  img: /images/partners/enway.png
+  link: https://enway.ai/
 
 - name: Geonamics
-  link: /images/partners/geonamics.png
+  img: /images/partners/geonamics.png
+  link: https://geonamics.com.sg/
 
 - name: Handplus Robotics
-  link: /images/partners/handplus.png
+  img: /images/partners/handplus.png
+  link: https://www.handplusrobotics.com/
 
 - name: HOPE Technik
-  link: /images/partners/hope.png
+  img: /images/partners/hope.png
+  link: https://www.hopetechnik.com/
 
 - name: IHiS
-  link: /images/partners/ihis.png
+  img: /images/partners/ihis.png
+  link: https://www.ihis.com.sg/
 
 - name: Lionsbot International
-  link: /images/partners/lionsbot.png
+  img: /images/partners/lionsbot.png
+  link: https://www.lionsbot.com/
 
 - name: NCS
-  link: /images/partners/ncs.png
+  img: /images/partners/ncs.png
+  link: https://www.ncs.com.sg/public/ncs/en.html
 
 - name: Oceania Robotics
-  link: /images/partners/oceania.png
+  img: /images/partners/oceania.png
+  link: https://oceaniarobotics.com/
 
 - name: Orinno Technology
-  link: /images/partners/orinno.png
+  img: /images/partners/orinno.png
+  link: https://orinnotech.com/
 
 - name: Open Source Robotics Corporation (OSRC)
-  link: /images/partners/osrc.png
+  img: /images/partners/osrc.png
+  link: https://www.openrobotics.org/
 
 - name: SIIX-AGT
-  link: /images/partners/siix.png
+  img: /images/partners/siix.png
+  link: https://www.siix-agt.com/
 
 - name: ST Engineering
-  link: /images/partners/ste.png
+  img: /images/partners/ste.png
+  link: https://www.stengg.com/
 
 - name: Xnergy Autonomous Power Technologies
-  link: /images/partners/xnergy.png
+  img: /images/partners/xnergy.png
+  link: https://www.xnergytech.com/
