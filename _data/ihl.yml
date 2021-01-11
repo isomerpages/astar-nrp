@@ -1,17 +1,23 @@
 - name: A*STAR
-  link: /images/partners/astar.png
+  img: /images/partners/astar.png
+  link: https://www.a-star.edu.sg/
 
 - name: Institute of Technical Education
-  link: /images/partners/ite.png
+  img: /images/partners/ite.png
+  link: https://www.ite.edu.sg/
 
 - name: Nanyang Technological University
-  link: /images/partners/ntu.png
+  img: /images/partners/ntu.png
+  link: https://www.ntu.edu.sg/Pages/home.aspx
 
 - name: National University of Singapore
-  link: /images/partners/nus.png
+  img: /images/partners/nus.png
+  link: http://nus.edu.sg/
 
 - name: Singapore Institute of Technology
-  link: /images/partners/sit.png
+  img: /images/partners/sit.png
+  link: https://www.singaporetech.edu.sg/
 
 - name: Singapore University of Technology and Design
-  link: /images/partners/sutd.png
+  img: /images/partners/sutd.png
+  link: https://www.sutd.edu.sg/

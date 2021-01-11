@@ -1,8 +1,11 @@
 - name: Building and Construction Authority
-  link: /images/partners/bca.png
+  img: /images/partners/bca.png
+  link: https://www1.bca.gov.sg/
 
 - name: CHART
-  link: /images/partners/chart.png
+  img: /images/partners/chart.png
+  link: https://www.cgh.com.sg/chart
 
 - name: National Environment Agency
-  link: /images/partners/nea.png
+  img: /images/partners/nea.png
+  link: https://www.nea.gov.sg/
