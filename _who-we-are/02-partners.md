@@ -2,20 +2,18 @@
 title: Partners
 permalink: /who-we-are/partners/
 ---
-## Stakeholders  
+## Steering Committee Members  
 
 {% include partners.html partners=site.data.stakeholders %}
-  
-## Institutes of Higher Learning (IHLs) & Research Institutes (RIs)
-
-{% include partners.html partners=site.data.ihl %}
   
 ## Public Agencies  
 
 {% include partners.html partners=site.data.pbagent %}
   
-## Project Partners  ## {#projectpartners}
+## Institutes of Higher Learning (IHLs) & Research Institutes (RIs)
 
-Listed below are the list of partners that we have projects with. Visit the [ecosystem partners](/industry/ecoparts) page to see the full list of partners from the local ecosystem!
+{% include partners.html partners=site.data.ihl %}
+  
+## Industry Partners  ## {#industrypartners}
 
-{% include partners.html partners=site.data.projparts %}
+Visit our [Industry](/industry/) page to see our list of industry [Project Partners](/industry/projparts/) and industry [Ecosystem Partners](/industry/ecoparts/).
