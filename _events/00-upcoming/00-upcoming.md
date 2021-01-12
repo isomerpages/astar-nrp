@@ -7,11 +7,11 @@ third_nav_title: Upcoming Events
 No upcoming webinars.
 {% include webinars.html webinars=site.data.webinars %}
   
-## Exhibitions
-No upcoming exhibitions.
+## Conferences and Exhibitions
+No upcoming conferences or exhibitions.
 
-## Grant Calls
-No upcoming grant calls.
+## Innovation Challenges and Grant Calls
+No upcoming innovation challenges or grant calls.
 
 ## Competitions
 No upcoming competitions.
