@@ -23,11 +23,11 @@ System capabilities are general components that robots required across multiple 
 Reconfiguration robotics are technologies that allow the robots to adapt their configuration to perform tasks in cluttered and hard-to-reach areas.
 6. [Assistive Robotics](/research/assistive/).
 Assistive Robotics are developed with the objectives to perform rehabilitation, assistive living for the elderly and augmentation of workers in physically demanding tasks.
-7. (Upcoming) [Data-driven Robotics](/research/ddr/).
+7. (Upcoming) Data-driven Robotics.
 Combining data and model, there is potential to optimise platform level and system level performance.
-8. (Upcoming) [Trusted Robotics](/research/trusted/).
+8. (Upcoming) Trusted Robotics.
 For robots to be widely adopted in the community, trust between robots and humans are essential. This R&D area aims to develop technologies that helps to build trust between robots and humans.
-9. (Upcoming) [Multi-robot Systems (MRS)](/research/mrs/).
+9. (Upcoming) Multi-robot Systems (MRS).
 Multiple robots can be expected to collaborate to perform complex tasks or many tasks dispersed over a large environment. Hence, MRS technologies are required to facilitate such use cases.
 
 [Get in touch with us](/contact-us/) to find out more about the projects that we have!
