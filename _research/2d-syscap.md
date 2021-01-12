@@ -4,7 +4,7 @@ permalink: /research/syscap/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-System capabilities which serves as the 'soul' to connect various parts of the robot.
+System capabilities are general components that robots required across multiple domain sectors. Examples are RMF, ROS-I, simulation and physical infra architecture design.
 
 ## Projects under System Capabilities
 

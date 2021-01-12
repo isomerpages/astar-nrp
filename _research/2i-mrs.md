@@ -4,7 +4,7 @@ permalink: /research/mrs/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-Robots integrated into a society would unlikely be working alone, but would instead be working hand in hand to support the human population. Multiple robots that could collaborate together would also expand their capability in achieving large scale tasks a single unit would have not accomplished.
+Multiple robots can be expected to collaborate to perform complex tasks or many tasks dispersed over a large environment. Hence, MRS technologies are required to facilitate such use cases.
 
 ## Projects under Multi-robot Systems
 

@@ -4,7 +4,7 @@ permalink: /research/trusted/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-Developing robotics that could be trusted and relied upon by people, thereby fostering cooperation and acceptance within the community.
+For robots to be widely adopted in the community, trust between robots and humans are essential. This R&D area aims to develop technologies that helps to build trust between robots and humans.
 
 ## Projects under Trusted Robotics
 

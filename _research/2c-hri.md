@@ -4,7 +4,7 @@ permalink: /research/hri/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-A key enabler for robots to interact and communicate with people, augmenting and uplifting their work and lives.
+HRI is a critical technology for service robots as it enables the interaction between the robots providing the service with the human receiving the service.
 
 ## Projects under Human-Robot Interaction
 

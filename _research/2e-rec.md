@@ -4,7 +4,7 @@ permalink: /research/rec/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-Reconfiguration allows the robots to change their shape to suit the needs of fulfilling tasks or moving around the environment.
+Reconfiguration robotics are technologies that allow the robots to adapt their configuration to perform tasks in cluttered and hard-to-reach areas.
 
 ## Projects under Reconfigurable Robotics
 

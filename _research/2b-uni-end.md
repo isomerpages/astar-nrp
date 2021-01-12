@@ -4,7 +4,7 @@ permalink: /research/uni-end/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-End effectors serves as the point of contact for a robot with the physical surroundings. More effective end effectors would mean more effective automation for assembly tasks, allowing humans to take up higher priority tasks.
+Combined with tactile sensors, this track aims to develop end effectors with better dexterity to perform multiple tasks in a few selected domain sectors such as healthcare, logistic and food assembly.
 
 ## Projects under Universal End Effectors
 
