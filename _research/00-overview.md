@@ -3,31 +3,34 @@ title: Overview
 permalink: /research/
 ---
 ## Overview  
-Headed by R<sup>2</sup>DO, the R&D arm of NRP supports robotics research and development efforts through 2 funding initiatives; Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS).
+Robotics R&D Office (R<sup>2</sup>DO) is the R&D arm of NRP. The office supports robotics R&D projects through 2 funding initiatives (FI); Robotics Enabling Capibility Technology (RECT) and Robotics Domain Specific (RDS).
 
-RECT focuses on building up a strong scientific foundation with a critical mass of researchers to provide a continuous pipeline of robotics technologies, whereas RDS works in three application sectors for the industry to take the lead to realise innovation and to deliver robotics solutions with the aim of deployment and commercialisation.
+RECT FI focuses on building Robotics technologies applicable to use cases in domain sectors that Singapore is keen to develop; whereas RDS FI co-funds projects with public agencies in [Healthcare](/research/healthcare/), [Built Environment](/research/built-environment/) and [Environmental Services](/research/environment/) to innovate robotic solutions for their problem statements.
   
-## Robotics Enabling Capability Technology (RECT) ## {#rect}
-There are currently 9 focus areas of the RECT Funding Initiative. [Get in touch with us](/contact-us/) to find out more about the projects that we have!
+## NRP R&D Focus Areas
+
+NRP has 9 R&D focus areas:
 
 1. [Navigation & Perception](/research/nav-per/).
-Navigation & perception are building blocks of any robotics, enabling it to make sense of its position from its surroundings - and move to its desired location for tasks.
-2. [Human-Robot Interaction](/research/hri/).
-A key enabler for robots to interact and communicate with people, augmenting and uplifting their work and lives.
+Navigation & perception are basic functional components for mobile robots that enable the robot to perform point A to B mobility and perform the assigned task.
+2. [Human-Robot Interaction (HRI)](/research/hri/).
+HRI is a critical technology for service robots as it enables the interaction between the robots providing the service with the human receiving the service.
 3. [System Capabilities](/research/syscap/).
-System capabilities which serves as the 'soul' to connect various parts of the robot.
+System capabilities are general components that robots required across multiple domain sectors. Examples are RMF, ROS-I, simulation and physical infra architecture design.
 4. [Reconfigurable Robotics](/research/rec/).
-Reconfiguration allows the robots to change their shape to suit the needs of fulfilling tasks or moving around the environment.
+Reconfiguration robotics are technologies that allow the robots to adapt their configuration to perform tasks in cluttered and hard-to-reach areas.
 5. ["Universal" End Effectors](/research/uni-end/).
-End effectors serves as the point of contact for a robot with the physical surroundings. More effective end effectors would mean more effective automation for assembly tasks, allowing humans to take up higher priority tasks.
+Combined with tactile sensors, this track aims to develop end effectors with better dexterity to perform multiple tasks in a few selected domain sectors such as healthcare, logistic and food assembly. 
 6. [Assistive Robotics](/research/assistive/).
-Assistive robotics augments human capabilities for everyday work and life.
+Assistive Robotics are developed with the objectives to perform rehabilitation, assistive living for the elderly and augmentation of workers in physically demanding tasks.
 7. [Data-driven Robotics](/research/ddr/).
-Data becomes increasingly important for high level simulation and communication. Data-driven robotics even more so becomes a field necessary for optimisation.
-8. [Multi-robot Systems](/research/mrs/).
-Robots integrated into a society would unlikely be working alone, but would instead be working hand in hand to support the human population. Multiple robots that could collaborate together would also expand their capability in achieving large scale tasks a single unit would have not accomplished.
-9. [Trusted Robotics](/research/trusted/).
-Developing robotics that could be trusted and relied upon by people, thereby fostering cooperation and acceptance within the community.
+Combining data and model, there is potential to optimise platform level and system level performance.
+8. [Trusted Robotics](/research/trusted/).
+For robots to be widely adopted in the community, trust between robots and humans are essential. This R&D area aims to develop technologies that helps to build trust between robots and humans.
+9. [Multi-robot Systems (MRS)](/research/mrs/).
+Multiple robots can be expected to collaborate to perform complex tasks or many tasks dispersed over a large environment. Hence, MRS technologies are required to facilitate such use cases.
+
+There are currently 9 focus areas of the RECT Funding Initiative. [Get in touch with us](/contact-us/) to find out more about the projects that we have!
 
 ## Robotics Domain Specific (RDS) ## {#rds}
 Public lead demand refers to the various public good in Singapore that looks at having robotics solutions to improve current work processes. The focus remains on 3 domains for the service and deployment of robotics solutions, in mainly [Healthcare](/research/healthcare/), [Environment](/research/environment/), and [Build Environment](/research/built-environment/).
