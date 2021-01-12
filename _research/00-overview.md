@@ -24,9 +24,7 @@ Reconfiguration robotics are technologies that allow the robots to adapt their c
 6. [Assistive Robotics](/research/assistive/).
 Assistive Robotics are developed with the objectives to perform rehabilitation, assistive living for the elderly and augmentation of workers in physically demanding tasks.
 7. [Others](/research/others/).
-
-(Upcoming) Data-driven Robotics, Trusted Robotics, Multi-robot Systems (MRS)
-
+  
 [Get in touch with us](/contact-us/) to find out more about the projects that we have!
 
 ## Proof-of-Concept and Proof-of-Value Projects ## {#rds}
