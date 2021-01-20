@@ -2,7 +2,7 @@
 title: People
 permalink: /who-we-are/people/
 ---
-## Meet the team
+## Our team
 
 [Join us](/careers/)!
 
