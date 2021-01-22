@@ -19,9 +19,9 @@ sections:
             - title: Robotics Jobs 
               description: Looking for jobs related to Robotics? Take a look at some of the openings from our network.
               url: /careers/
-            - title: Industry Portal
-              description: See what we have developed to assist our partners in their work. Contact us if you have an interest in the portal.
-              url: /industry/
+            - title: Standards
+              description: We have compiled a list of standards for robotics work for your reference here.
+              url: /engineering/standards/
     - infobar:
         title: Partners
         subtitle: Ecosystem Network
