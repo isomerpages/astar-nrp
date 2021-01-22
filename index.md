@@ -20,7 +20,7 @@ sections:
               description: Looking for jobs related to Robotics? Take a look at some of the openings from our network.
               url: /careers/
             - title: Standards
-              description: We have compiled a list of standards for robotics work for your reference here.
+              description: We have compiled a list of standards for robotics work here.
               url: /engineering/standards/
     - infobar:
         title: Partners
