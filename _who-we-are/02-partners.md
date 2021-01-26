@@ -6,7 +6,7 @@ permalink: /who-we-are/partners/
 
 {% include partners.html partners=site.data.stakeholders %}
   
-## Public Agencies  
+## Public Agencies & Offices  
 
 {% include partners.html partners=site.data.pbagent %}
   
