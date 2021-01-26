@@ -1,11 +1,3 @@
-- name: Enway
-  img: /images/partners/enway.png
-  link: https://enway.ai/
-
-- name: Geonamics
-  img: /images/partners/geonamics.png
-  link: https://geonamics.com.sg/
-
 - name: Handplus Robotics
   img: /images/partners/handplus.png
   link: https://www.handplusrobotics.com/
@@ -18,21 +10,9 @@
   img: /images/partners/ihis.png
   link: https://www.ihis.com.sg/
 
-- name: Lionsbot International
-  img: /images/partners/lionsbot.png
-  link: https://www.lionsbot.com/
-
 - name: NCS
   img: /images/partners/ncs.png
   link: https://www.ncs.com.sg/public/ncs/en.html
-
-- name: Oceania Robotics
-  img: /images/partners/oceania.png
-  link: https://oceaniarobotics.com/
-
-- name: Orinno Technology
-  img: /images/partners/orinno.png
-  link: https://orinnotech.com/
 
 - name: Open Source Robotics Corporation (OSRC)
   img: /images/partners/osrc.png
@@ -45,10 +25,6 @@
 - name: ST Engineering
   img: /images/partners/ste.png
   link: https://www.stengg.com/
-
-- name: Wong Fong Engineering - 1988
-  img: /images/partners/wongfong.png
-  link: https://wongfong.com/
 
 - name: Xnergy Autonomous Power Technologies
   img: /images/partners/xnergy.png
