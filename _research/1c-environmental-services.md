@@ -6,7 +6,7 @@ third_nav_title: Domains
 ## Overview  
 <img style="max-width:50%;margin-bottom:20px;" src="/images/partners/nea.png">
 
-The Environmental Robotics Programme was developed as part of NEA's strategy to leverage robotics technology to transform Singapore’s environmental services sector.
+The Environmental Robotics Programme was developed as part of NEA's strategy to leverage robotics technology to transform Singapore's environmental services sector.
 
 Launched alongside the Environmental Services Industry Transformation Map (ES ITM) in December 2017, the Environmental Robotics Programme seeks to catalyse the local robotics industry by providing opportunities for government, industry and research institutes to co-create solutions that not only build up local expertise and experience in delivering environmental robotic solutions, but also enhance the competitiveness and resilience of the environmental services industry, as well as contribute to Singapore's Smart Nation objectives
 
