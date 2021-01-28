@@ -14,9 +14,17 @@
   img: /images/partners/nus.png
   link: http://nus.edu.sg/
 
+- name: Republic Polytechnic
+  img: /images/partners/rp.png
+  link: https://www.rp.edu.sg/
+
 - name: Singapore Institute of Technology
   img: /images/partners/sit.png
   link: https://www.singaporetech.edu.sg/
+
+- name: Singapore Polytechnic
+  img: /images/partners/sp.png
+  link: https://www.sp.edu.sg/
 
 - name: Singapore University of Technology and Design
   img: /images/partners/sutd.png
