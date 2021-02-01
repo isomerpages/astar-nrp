@@ -8,6 +8,17 @@ Listed below are some of the relevant and essential standards for robotics work 
 
 Please [contact us](/contact-us/) if there are any issues with the standards listed below. We would get back to you as soon as we can.
 
-{% include standards.html standards=site.data.standards %}
+## Common Requirements for robots
+{% include standards.html standards=site.data.standards1 %}
 
-<img src="/images/engineering/jis.png">
+## Industrial Robots
+{% include standards.html standards=site.data.standards2 %}
+
+## Service Robots (General)
+{% include standards.html standards=site.data.standards3 %}
+
+## Service Robots (Exoskeleton)
+{% include standards.html standards=site.data.standards4 %}
+
+## Service Robots (Healthcare)
+{% include standards.html standards=site.data.standards5 %}
