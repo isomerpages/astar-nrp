@@ -4,6 +4,18 @@
   link: https://www.iso.org/standard/22244.html?browse=tc
   desc: "Manipulating industrial robots - Performance criteria and related test methods"
 
+- name: "ISO 9409-1:2004"
+  type: normal
+  ss: ""
+  link: https://www.iso.org/standard/36578.html?browse=tc
+  desc: "Manipulating industrial robots - Mechanical interfaces - Part 1: Plates"
+
+- name: "ISO 9409-2:2002"
+  type: normal
+  ss: ""
+  link: https://www.iso.org/standard/36579.html?browse=tc
+  desc: "Manipulating industrial robots - Mechanical interfaces - Part 2: Shafts"
+
 - name: "ISO 9946:1999"
   type: normal
   ss: ""
@@ -51,36 +63,6 @@
   ss: ""
   link: https://www.iso.org/standard/70584.html?browse=tc
   desc: "Robotics - Safety design for industrial robot systems - Part 2: Manual load/unload stations"
-
-- name: "ISO 9409-1:2004"
-  type: normal
-  ss: ""
-  link: https://www.iso.org/standard/36578.html
-  desc: "Manipulating industrial robots - Mechanical interfaces - Part 1: Plates"
-
-- name: "ISO 9409-2:2002"
-  type: normal
-  ss: ""
-  link: https://www.iso.org/standard/36579.html
-  desc: "Manipulating industrial robots - Mechanical interfaces - Part 2: Shafts"
-
-- name: "ISO 11593:1996"
-  type: normal
-  ss: ""
-  link: https://www.iso.org/standard/19528.html
-  desc: "Manipulating industrial robots - Automatic end effector exchange systems - Vocabulary and presentation of characteristics"
-
-- name: "ISO 9946:1999"
-  type: normal
-  ss: ""
-  link: https://www.iso.org/standard/28794.html
-  desc: "Manipulating industrial robots - Presentation of characteristics"
-
-- name: "ISO 9283:1998"
-  type: normal
-  ss: ""
-  link: https://www.iso.org/standard/22244.html
-  desc: "Manipulating industrial robots - Performance criteria and related test methods"
 
 - name: "JIS B 0138-1996"
   type: normal

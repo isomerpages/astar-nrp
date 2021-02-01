@@ -1,14 +1,26 @@
+- name: "ASTM F3323"
+  type: normal
+  ss: ""
+  link: https://www.astm.org/Standards/F3323.htm
+  desc: "Standard Terminology For Exoskeletons and Exosuits Practice For Labelling and Information on Exoskeletons and Exosuits"
+
 - name: "ASTM F3358"
   type: normal
   ss: ""
   link: https://www.astm.org/Standards/F3358.htm
   desc: "Standard Practice For Labelling and Information on Exoskeletons and Exosuits"
 
-- name: "ASTM F3323"
+- name: "ASTM WK65295"
   type: normal
   ss: ""
-  link: https://www.astm.org/Standards/F3323.htm
-  desc: "Standard Terminology For Exoskeletons and Exosuits Practice For Labelling and Information on Exoskeletons and Exosuits"
+  link: https://www.astm.org/DATABASE.CART/WORKITEMS/WK65295.htm
+  desc: "New Test Method for Load Handling When Using an Exoskeleton"
+
+- name: "ASTM WK65296"
+  type: normal
+  ss: ""
+  link: https://www.astm.org/DATABASE.CART/WORKITEMS/WK65296.htm
+  desc: "New Practice for Recording Environmental Conditions for Utilization with Exoskeleton Test Methods"
 
 - name: "ASTM WK65346"
   type: normal
@@ -27,15 +39,3 @@
   ss: ""
   link: https://www.astm.org/DATABASE.CART/WORKITEMS/WK65587.htm
   desc: "New Guide for Assessing System Training"
-
-- name: "ASTM WK65295"
-  type: normal
-  ss: ""
-  link: https://www.astm.org/DATABASE.CART/WORKITEMS/WK65295.htm
-  desc: "New Test Method for Load Handling When Using an Exoskeleton"
-
-- name: "ASTM WK65296"
-  type: normal
-  ss: ""
-  link: https://www.astm.org/DATABASE.CART/WORKITEMS/WK65296.htm
-  desc: "New Practice for Recording Environmental Conditions for Utilization with Exoskeleton Test Methods"
