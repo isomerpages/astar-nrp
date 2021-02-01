@@ -32,6 +32,13 @@
         color: #d6231d !important;
     }
 
+    .singapore-standard {
+        font-family: "Lato", sans-serif;
+        color: #49759a !important;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
     .standard-desc {
         font-family: "Lato", sans-serif;
         font-size: 16px;
@@ -54,6 +61,7 @@
     <div class="standard">
         <a href="{{ standard.link}}" class="link-tag"></a>
         <h4 class="{{ standard.type }}">{{ standard.name }}</h4>
+        <span class="singapore-standard">{{ standard.ss }}</span>
         <span class="standard-desc">{{ standard.desc }}</span>
     </div>
     {% endfor %}
