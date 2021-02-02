@@ -12,6 +12,7 @@ No upcoming conferences or exhibitions.
 
 ## Innovation Challenges and Grant Calls
 No upcoming innovation challenges or grant calls.
+{% include webinars.html webinars=site.data.icgc %}
 
 ## Competitions
 No upcoming competitions.
