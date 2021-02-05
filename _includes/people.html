@@ -22,7 +22,8 @@
     .person-img {
         margin-top: 10px;
         padding: 10px;
-        object-fit: cover;
+        object-fit: contain;
+        height: 163ps;
     }
 
     .person-post {
@@ -45,7 +46,7 @@
 
     {% for person in include.people %}
     <div class="person">
-        <img class="person-img" alt="../images/people/profile.jpg" src="{{ person.img }}">
+        <img class="person-img" alt="/images/people/profile.jpg" src="{{ person.img }}">
         <span class="person-name">{{ person.name }}</span>
         <span class="person-post">{{ person.post }}</span>
     </div>
