@@ -10,11 +10,9 @@ Feel free to [reach out to us](/contact-us/) if there are any resources that you
 
 
 ### ROS
-1. [Getting Started with Robotics](https://github.com/kiloreux/awesome-robotics)
+1. [Getting Started with Robotics Courses](https://github.com/kiloreux/awesome-robotics)
 2. [Robotics Middleware Framework Core (RMF Core)](https://github.com/osrf/rmf_core)
 3. [ROS Tutorials](https://github.com/methylDragon/ros-tutorials)
 4. [Robotics Algorithms](https://github.com/AtsushiSakai/PythonRobotics#what-is-this)
 5. [Ignition Robotics](https://app.ignitionrobotics.org/dashboard)
-
-
-### Robot Intelligence
+6. [Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
