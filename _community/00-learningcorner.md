@@ -1,6 +1,6 @@
 ---
 title: Learning Corner
-permalink: /roboticists/learningcorner
+permalink: /community/learningcorner
 ---
 ## Learning Corner
 The resources listed here are just suggestions of resources for the learning of aspiring roboticists, and people who are interested in robotics technology but have no idea where to start.

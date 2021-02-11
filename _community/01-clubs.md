@@ -1,6 +1,6 @@
 ---
 title: Robotics Clubs
-permalink: /roboticists/clubs
+permalink: /community/clubs
 ---
 Here is the list of clubs doing Robotics in Singapore.
 
