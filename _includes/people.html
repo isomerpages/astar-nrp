@@ -5,10 +5,11 @@
         grid-template-columns: 25% 25% 25% 25%;
     }
 
-    @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
+    @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
         /* IE10+ specific styles go here */
         display: flex;
         flex-wrap: wrap;
+        margin: -20px;
     }
 
     .person {
