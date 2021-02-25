@@ -1,8 +1,8 @@
 <style>
     .partners {
-        display: grid;
-        grid-gap: 26px;
-        grid-template-columns: 25% 25% 25% 25%;
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
     }
 
     .partner {
@@ -10,7 +10,9 @@
         display: flex;
         flex-direction: column;
         padding: 23px;
+        margin: 10px;
         cursor: pointer;
+        width: 30%;
     }
 
     .partner:hover {
@@ -32,9 +34,19 @@
         margin-bottom: 0 !important;
     }
 
+    @media only screen and (max-width: 1080px) {
+        .partners {
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+    }
+
     @media only screen and (max-width: 600px) {
         .partners {
-            grid-template-columns: 100%;
+            width: 70%;
+            margin-left: 15%;
+            margin-right: 15%;
         }
 
         .partner-img {
