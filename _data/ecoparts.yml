@@ -93,6 +93,11 @@
   img: /images/partners/pba.png
   desc: 'PBA Group / "PBARobotics" (PBA: Platform for Bots and Automation) is a regional robotics and automation company that allows businesses of every size to leverage Industry 4.0 technologies to optimise and scale up their operations. From building tech products; specialising in precision and general robotics; to offering turnkey automation solutions, PBA is a technology partner that never stops reinventing. Our purpose is to meet the challenges of the everyday world by making robotics tech accessible to everyone.'
 
+- name: RACE Academy
+  link: http://raceacademy.com.sg/
+  img: /images/partners/race.png
+  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 - name: ROS Industrial Consortium Asia Pacific
   link: https://rosindustrial.org/
   img: /images/partners/rosiapac.png
