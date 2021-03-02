@@ -88,6 +88,11 @@
   img: /images/partners/otsaw.png
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+- name: Panasonic R&D Center Singapore
+  link: https://research.sg.panasonic.com/
+  img: /images/partners/panasonic.png
+  desc: Founded in 1990 as a wholly owned R&D arm of Panasonic Corporation and defined by Panasonic's unified aspirations for a better life, a better world, Panasonic R&D Center Singapore (PRDCSG) is a customer-centric technology innovator, solution provider and front-running enabler in commercialization and business-oriented development.
+
 - name: PBA Robotics
   link: https://www.pbarobotics.com/
   img: /images/partners/pba.png
