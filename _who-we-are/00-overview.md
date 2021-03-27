@@ -18,11 +18,3 @@ The rounded square on the left represents a robot and the circle on the right re
 ## History
   
 {% include timeline.html events=site.data.timeline %}
-  
-## Organisation Structure  
-![NRP Organisation Structure](/images/orgstruct.png)
-
-NRP comprises one existing unit and two new units being planned:
-* Robotics R&D Office (R<sup>2</sup>DO) is responsible for identifying and funding differentiating robotics technologies and capabilities to build.
-* (New in planning) Robotics Engineering Centre (REC) will be a federated network of engineering centres that works with public sector researchers and industry to support the translation of robotics technologies and capabilities into solutions that are ready for deployment.
-* (New in planning) Robotics Ecosystem Development Office (REDO) will work with industry and partner agencies to foster greater public-private collaborations, grow our robotics industry and address ecosystem-level issues.
