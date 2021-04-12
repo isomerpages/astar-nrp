@@ -3,6 +3,8 @@ url: "https://nrp.gov.sg" # the base hostname & protocol for your site, e.g. htt
 favicon: /images/favicon-nrp.ico
 description: The National Robotics Programme of Singapore
 
+homepage_resources: true
+
 # Site colors
 colors:
   primary-color: '#363a3c'
