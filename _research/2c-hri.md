@@ -10,4 +10,4 @@ HRI is a critical technology for service robots as it enables the interaction be
 
 [Get in touch with us](/contact-us/) if you are interested!
 
-{% include projects.html projects=site.data.2hri %}
+{% include projects.html projects=site.data.3hri %}

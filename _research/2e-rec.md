@@ -10,4 +10,4 @@ Reconfiguration robotics are technologies that allow the robots to adapt their c
 
 [Get in touch with us](/contact-us/) if you are interested!
 
-{% include projects.html projects=site.data.4rec %}
+{% include projects.html projects=site.data.5rec %}

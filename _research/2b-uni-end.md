@@ -10,4 +10,4 @@ Combined with tactile sensors, this track aims to develop end effectors with bet
 
 [Get in touch with us](/contact-us/) if you are interested!
 
-{% include projects.html projects=site.data.5uniend %}
+{% include projects.html projects=site.data.2uniend %}

@@ -10,4 +10,4 @@ System capabilities are general components that robots required across multiple 
 
 [Get in touch with us](/contact-us/) if you are interested!
 
-{% include projects.html projects=site.data.3syscap %}
+{% include projects.html projects=site.data.4syscap %}
