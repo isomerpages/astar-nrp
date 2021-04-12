@@ -3,8 +3,6 @@ url: "https://nrp.gov.sg" # the base hostname & protocol for your site, e.g. htt
 favicon: /images/favicon-nrp.ico
 description: The National Robotics Programme of Singapore
 
-homepage_resources: true
-
 # Site colors
 colors:
   primary-color: '#363a3c'
@@ -40,6 +38,9 @@ collections:
   community:
     output: true
 resources_name: news-media
+
+homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
+homepage_resources: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
