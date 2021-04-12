@@ -23,11 +23,5 @@ contacts:
     - other: Grant Related Issues
     - email: alvin_goh@hq.a-star.edu.sg
     - email: tashrif_sarman@hq.a-star.edu.sg
-  - title: REC
-    content:
-    - email: ask_nrp@hq.a-star.edu.sg
-  - title: REDO
-    content:
-    - email: ong_zi_chong@hq.a-star.edu.sg
 ---
   
