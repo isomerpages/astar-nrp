@@ -17,15 +17,6 @@ agency-logo: /images/nrp-logo.svg
 hero-title: <font size=10>Robotics Empowering People</font>
 hero-subtitle: The National Robotics Programme seeks to anchor deep national capabilities in robotics, thereby creating social and economic impacts, empower people and grow local talent, build a robotics ecosystem and put Singapore on the world map.
 hero-banner: /images/banner.jpg
-hero-key_highlights-title: Research & Development
-hero-key_highlights-description: Understand more about NRP's work in the public R&D sector and see the types of technologies that we develop.
-hero-key_highlights-url: /research/
-hero-key_highlights-title: Robotics Jobs
-hero-key_highlights-description: Looking for jobs related to Robotics? Take a look at some of the openings from our network.
-hero-key_highlights-url: /careers/
-hero-key_highlights-title: Standards
-hero-key_highlights-description: We have compiled a list of standards for robotics work here.
-hero-key_highlights-url: /engineering/standards/
 
 #Call to Action Button
 button:
