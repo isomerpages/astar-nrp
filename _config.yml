@@ -19,6 +19,11 @@ colors:
     - title: media-color-five
       color: '#009144'
 
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
 
 collections:
   who-we-are:
@@ -38,6 +43,7 @@ collections:
   community:
     output: true
 resources_name: news-media
+paginate: 12
 
 homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
 homepage_resources: true
@@ -57,9 +63,10 @@ defaults:
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
-paginate: 12
+
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+
 plugins:
   - jekyll-feed
   - jekyll-assets
