@@ -19,7 +19,6 @@ colors:
     - title: media-color-five
       color: '#009144'
 
-
 collections:
   who-we-are:
     output: true
@@ -39,9 +38,6 @@ collections:
     output: true
 resources_name: news-media
 
-homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
-homepage_resources: true
-
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -57,9 +53,11 @@ defaults:
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
-paginate: 12
+
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+paginate: 12
+
 plugins:
   - jekyll-feed
   - jekyll-assets
