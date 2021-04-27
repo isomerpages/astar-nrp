@@ -1,23 +1,22 @@
 ---
-title: Site Abbreviations
+title: Abbreviations
 permalink: /who-we-are/abbreviations/
 ---
-## Abbreviations
+## Site Abbreviations
 
 As there are multiple abbreviations used throughout the website, this page serves as a glossary to what each of the abbreviations represents!
 
-
-BCA - Building and Construction Authority
-CHART - Centre for Healthcare Assistive and Robotics Technologies
-EDB - Economic Development Board
-ESG - Enterprise Singapore
-MOH - Ministry of Health
-NEA - National Environment Agency
-NRF - National Research Foundation
-NRP - National Robotics Programme
-RECT -Robotics Enabling Capability Technology
-RDS - Robotics Domain Specific
-RMF - Robotics Middleware Framework
-ROS - Robot Operating System
-ROS-I - ROS Industrial
-S&TPPO - Science & Technology Policy & Plans Office
+1. BCA - Building and Construction Authority
+2. CHART - Centre for Healthcare Assistive and Robotics Technologies
+3. EDB - Economic Development Board
+4. ESG - Enterprise Singapore
+5. MOH - Ministry of Health
+6. NEA - National Environment Agency
+7. NRF - National Research Foundation
+8. NRP - National Robotics Programme
+9. RECT -Robotics Enabling Capability Technology
+10. RDS - Robotics Domain Specific
+11. RMF - Robotics Middleware Framework
+12. ROS - Robot Operating System
+13. ROS-I - ROS Industrial
+14. S&TPPO - Science & Technology Policy & Plans Office
