@@ -4,7 +4,7 @@ permalink: /research/syscap/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-System capabilities are general components that robots required across multiple domain sectors. Examples are Robotics Middleware Framework (RMF), ROS-I, simulation and physical infra architecture design.
+System capabilities are general components that robots required across multiple domain sectors. Examples are [Robotics Middleware Framework (RMF)](/abbreviations#rmf), ROS-I, simulation and physical infra architecture design.
 
 ## Projects under System Capabilities
 
