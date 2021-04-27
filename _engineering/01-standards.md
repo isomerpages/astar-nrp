@@ -2,7 +2,7 @@
 title: Standards
 permalink: /engineering/standards/
 ---
-Listed below are some of the relevant and essential standards for robotics work that would be applicable to the Robotics Engineering Centre (REC) HQ. The standards are mainly from ISO, with relevant ones from IEC, SS, JIS, IEEE, ASTM, etc. Standards related to safety are highlighted in <span style="color:#d6231d">red</span>.
+Listed below are some of the relevant and essential standards for current robotics work. The standards are mainly from ISO, with relevant ones from IEC, SS, JIS, IEEE, ASTM, etc. Standards related to safety are highlighted in <span style="color:#d6231d">red</span>.
 
 [Visit the website of the local standard distributor](https://www.singaporestandardseshop.sg/), appointed by ESG, to purchase some of these standards adopted in Singapore!
 

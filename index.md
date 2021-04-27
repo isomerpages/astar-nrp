@@ -8,7 +8,7 @@ notification: This website is currently under construction.
 sections:
     - hero:
         title: Robotics Empowering People
-        subtitle: The National Robotics Programme seeks to anchor deep national capabilities in robotics, thereby creating social and economic impacts, empower people and grow local talent, build a robotics ecosystem and put Singapore on the world map.
+        subtitle: The National Robotics Programme seeks to develop deep national capabilities in robotics that can create societal and economic impacts. By capabilities we go beyond technologies to also include growing our local talent pool, growing our robotics system and working with like-minded international partners
         background: /images/banner.jpg
         button: About Us
         url: /who-we-are/
