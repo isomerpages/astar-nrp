@@ -4,7 +4,7 @@ permalink: /research/assistive/
 third_nav_title: Technical Focus Areas
 ---
 ## Overview  
-Assistive Robotics are developed with the objectives to perform rehabilitation, assistive living for the elderly and augmentation of workers in physically demanding tasks.
+Assistive Robotics are developed with the objectives to perform rehabilitation, assistive living for the elderly, and the augmentation of workers in physically demanding tasks.
 
 ## Projects under Assistive Robotics
 

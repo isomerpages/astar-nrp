@@ -4,7 +4,7 @@ permalink: /who-we-are/abbreviations/
 ---
 ## Site Abbreviations
 
-As there are multiple abbreviations used throughout the website, this page serves as a glossary to what each of the abbreviations represents!
+As there are multiple abbreviations used throughout the website, this page serves as a glossary of what each of the abbreviations represents!
 
 #### 1. ACIP - Advanced Construction & Innovation Planning Department #### {#acip}
 #### 2. [BCA - Building and Construction Authority](https://www1.bca.gov.sg/) #### {#bca}

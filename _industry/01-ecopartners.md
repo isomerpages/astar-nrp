@@ -2,7 +2,7 @@
 title: Ecosystem Partners
 permalink: /industry/ecoparts/
 ---
-Are you a company that (a) is looking for robotic products or solutions or (b) has developed or are developing robotic products and solutions in Singapore? If so, we would like to get to know you. [Get in touch with us](/contact-us/)!
+Are you a company that (a) is looking for robotic products or solutions or (b) has developed or is developing robotic products and solutions in Singapore? If so, we would like to get to know you. [Get in touch with us](/contact-us/)!
 
 ## Ecosystem Partners
 
