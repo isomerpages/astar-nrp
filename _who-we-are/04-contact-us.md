@@ -18,9 +18,9 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - email: ask_nrp@hq.a-star.edu.sg
-  - title: R2DO
+  - title: Grant Related Issues
     content:
-    - other: Grant Related Issues
+    - other: 
     - email: alvin_goh@hq.a-star.edu.sg
     - email: tashrif_sarman@hq.a-star.edu.sg
 ---
