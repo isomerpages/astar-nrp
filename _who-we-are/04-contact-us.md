@@ -6,14 +6,14 @@ agency_name: National Robotics Programme
 locations:
   - title: NRP
     address:
-        - 1 Fusionopolis Way
-        - "Connexis South Tower, #19-02"
-        - Singapore 138632
+        - 4 Fusionopolis Way
+        - "Kinesis Tower, Level 9"
+        - Singapore 138635
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-        maps_link: https://goo.gl/maps/1rfnwkEbGK1wYTx36
+        maps_link: https://goo.gl/maps/GuczXEcqqpZArfY18
 contacts:
   - title: General Enquiries & Feedback
     content:
