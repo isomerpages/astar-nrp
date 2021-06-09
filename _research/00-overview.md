@@ -9,7 +9,7 @@ RECT FI focuses on building Robotics technologies applicable to use cases in dom
   
 ## NRP R&D Focus Areas ## {#rect}
 
-NRP has 9 R&D focus areas:
+NRP has 6 R&D focus areas:
 
 {% include overviewrd.html overviewrd=site.data.overviewrd %}
   
