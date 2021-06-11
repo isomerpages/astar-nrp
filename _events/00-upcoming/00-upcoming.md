@@ -4,15 +4,15 @@ permalink: /events/upcoming
 third_nav_title: Upcoming Events
 ---
 ## Webinars
-No upcoming webinars.
+Stay tune for updates.
 {% include webinars.html webinars=site.data.webinars %}
   
 ## Conferences and Exhibitions
-No upcoming conferences or exhibitions.
+Stay tune for updates.
 
 ## Innovation Challenges and Grant Calls
-No upcoming innovation challenges or grant calls.
+Stay tune for updates.
 {% include webinars.html webinars=site.data.icgc %}
 
 ## Competitions
-No upcoming competitions.
+Stay tune for updates.
