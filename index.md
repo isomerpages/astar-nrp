@@ -4,7 +4,7 @@ title: National Robotics Programme
 description: The National Robotics Programme (NRP) of Singapore looks into orchestrating the development of the local robotics ecosystem, to empower people in their everyday lives.
 image: /images/nrp-logo.svg
 permalink: /
-notification: This website is currently under construction.
+#notification: 
 sections:
     - hero:
         title: Robotics Empowering People
