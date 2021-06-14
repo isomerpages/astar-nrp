@@ -4,22 +4,22 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/nrp-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Industry
-    url: /industry/
-  - title: Home
-    collection: home
-  - title: About Us
-    collection: about-us
-  - title: Research
+  - title: Who We Are
+    collection: who-we-are
+  - title: R&D
     collection: research
-  - title: People
-    collection: people
+  - title: Industry
+    collection: industry
+  - title: Engineering
+    collection: engineering
   - title: Events
     collection: events
-  - title: Media
+  - title: Careers
+    collection: careers
+  - title: News & Media
     resource_room: true
+  - title: Community
+    collection: community

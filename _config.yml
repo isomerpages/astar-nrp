@@ -1,38 +1,43 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: National Robotics Programme
+url: "https://www.nrp.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/favicon-nrp.ico
+description: The National Robotics Programme of Singapore
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#363a3c'
+  secondary-color: '#d6231d'
   media-colors:
     - title: media-color-one
       color: '#49759a'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#4b5459'
     - title: media-color-three
-      color: '#00838f'
+      color: '#8f0000'
     - title: media-color-four
-      color: '#00838f'
+      color: '#004e91'
     - title: media-color-five
-      color: '#00838f'
-
+      color: '#009144'
 
 collections:
-  home:
-    output: true
-  about-us:
+  who-we-are:
     output: true
   research:
     output: true
-  people:
+  industry:
+    output: true
+  engineering:
+    output: true
+  careers:
     output: true
   events:
     output: true
-resources_name: media
-
-description: An Isomer site of the Singapore Government
+  archives:
+    output: true
+  community:
+    output: true
+google_analytics: G-Q7VQVE7WN6
+resources_name: news-media
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
@@ -49,9 +54,11 @@ defaults:
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
-paginate: 12
+
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+paginate: 12
+
 plugins:
   - jekyll-feed
   - jekyll-assets

@@ -1,0 +1,23 @@
+- name: Enway
+  img: /images/partners/enway.png
+  link: https://enway.ai/
+
+- name: Lionsbot International
+  img: /images/partners/lionsbot.png
+  link: https://www.lionsbot.com/
+
+- name: Oceania Robotics
+  img: /images/partners/oceania.png
+  link: https://oceaniarobotics.com/
+
+- name: Orinno Technology
+  img: /images/partners/orinno.png
+  link: https://orinnotech.com/
+
+- name: ST Engineering
+  img: /images/partners/ste.png
+  link: https://www.stengg.com/
+
+- name: Wong Fong Engineering - 1988
+  img: /images/partners/wongfong.png
+  link: https://wongfong.com/
