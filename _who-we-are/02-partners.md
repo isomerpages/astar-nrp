@@ -2,9 +2,11 @@
 title: Partners
 permalink: /who-we-are/partners/
 ---
-## Steering Committee Members  
+<!--
+## Steering Committee Members
 
-{% include partners.html partners=site.data.stakeholders %}
+/{% include partners.html partners=site.data.stakeholders %} 
+-->
   
 ## Public Agencies & Offices  
 
