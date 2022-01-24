@@ -1,6 +1,6 @@
 ---
 title: "Ngee Ann Polytechnic’s (NP) inaugural virtual Robotics Symposium"
-permalink: /archives/webinars/nproboticsymposium
+permalink: /archives/webinars/nproboticssymposium
 third_nav_title: Webinars
 ---
 ![Ngee Ann Polytechnic’s (NP) inaugural virtual Robotics Symposium](/images/webinars/nproboticssymposium.png)
