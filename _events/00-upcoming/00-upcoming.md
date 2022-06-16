@@ -11,7 +11,7 @@ During this online session, several industry experts will introduce the Danish a
 
 [Register Here](https://www.sginnovate.com/events/robotics-and-ai-%E2%80%93-cross-border-opportunities-between-singapore-and-denmark) for your complimentary Pass!!
 
-<img style="max-width:80%;margin-bottom:20px;" src="/images/webinars/SG_DK_WEB5.JPG">
+<img style="max-width:80%;margin-bottom:20px;" src="/images/webinars/SG_DK_WEB6.JPG">
 
 {% include webinars.html webinars=site.data.webinars %}
   
