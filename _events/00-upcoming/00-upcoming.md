@@ -4,14 +4,18 @@ permalink: /events/upcoming
 third_nav_title: Upcoming Events
 ---
 ## Webinars 
-Robotics and AI – Cross-border Opportunities between Singapore and Denmark
-Presented by SGInnovate, Invest in Demark, EDB, National Robotics Programme and Royal Danish Embassy Singapore
+AIBotics 2022
+A Global Conference and Exhibition that reviews the ethical and responsible AI and Robotic Innovations, including AI Forums and Roundtables (Academia and Industry) held on the 23rd and 24th of August at Raffles Town Club, Dunearn Ballroom.
+This conference aims to
+Practice Solutions Beyond Theory
+Gain deep understanding of issues and consequences relating to solutions from converging technologies which build AI and Robotic applications
+Bridge new tech and problem statements
+Experience inspiring and motivating connection between humans and machines
+Learn about the tools and methodologies
 
-During this online session, several industry experts will introduce the Danish and Singaporean Tech ecosystems, market perspectives, along with in-depth knowledge of industry trends and most interesting use-cases. This is the perfect starting point if you are interested in specialised skills, R&D collaboration, investment potentials, or scaling to the Nordics or Asian markets.
+[Register Here](https://na.eventscloud.com/ereg/index.php?eventid=677864&) for your pass!!
 
-[Register Here](https://www.sginnovate.com/events/robotics-and-ai-%E2%80%93-cross-border-opportunities-between-singapore-and-denmark) for your complimentary Pass!!
-
-<img style="max-width:80%;margin-bottom:20px;" src="/images/webinars/SG_DK_WEB6.JPG">
+<img style="max-width:80%;margin-bottom:20px;" src="/images/webinars/AIB_Banner_300x250.png">
 
 {% include webinars.html webinars=site.data.webinars %}
   
