@@ -11,7 +11,7 @@ The National Robotics Programme (NRP) is a multi-agency national programme that 
 \- *Professor Quek Tong Boon, Chief Executive, National Robotics Programme*  
   
 ## Our Logo
-<img style="max-width:50%;margin-bottom:20px;" src="/images/nrp-logo.png">
+<img style="max-width:50%;margin-bottom:20px;" src="/images/NRP LOGO.png">
   
 The rounded square on the left represents a robot and the circle on the right represents a person. They are encapsulated by a larger rounded rectangle, signifying the harmony of robots and people working together. Teaming between robots and people is further symbolised by the red colour (from the square) extending as a little black circle into the red circle. Taken together, the graphics with our tagline "Robotics Empowering People" serve to underscore our focus on robotics that enable people to have better lives and better jobs, to contribute to a better society and economy. Just like Rosie in The Jetsons, or R2D2 and C3PO in Star Wars!
   
