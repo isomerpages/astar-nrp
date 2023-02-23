@@ -4,7 +4,7 @@ permalink: /events/upcoming
 third_nav_title: Upcoming Events
 ---
 ## Webinars 
-Stay tune fpr updates.
+Stay tune for updates.
   
 ## Conferences and Exhibitions
 Stay tune for updates.
