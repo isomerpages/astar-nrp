@@ -1,16 +1,14 @@
 ---
-
- Contact Us
-  -  NRP
-    Address:
+title: Contact Us
+permalink: /who-we-are/Contact Us/
+---
+<!--
+ ##Contact Us
+    ## Address:
         - 4 Fusionopolis Way
-        - "Kinesis Tower, Level 9"
+        - Kinesis Tower, Level 9
         - Singapore 138635
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-        maps_link: https://goo.gl/maps/GuczXEcqqpZArfY18
+
         
  -  ASK NRP 
   <div
