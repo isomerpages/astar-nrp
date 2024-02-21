@@ -1,11 +1,11 @@
 <style>
-    .careers {
+    .Initiatives {
         display: grid;
         grid-gap: 26px;
         grid-template-columns: 50% 50%;
     }
 
-    .career {
+    .Initiative {
         position: relative;
         display: flex;
         flex-direction: column;
@@ -15,17 +15,17 @@
         cursor: pointer;
     }
 
-    .career:hover {
+    .Initiative:hover {
         box-shadow: 0 0 11px rgba(33,33,33,.2);
     }
 
-    .career-title {
+    .Initiative-title {
         font-family: "Lato", sans-serif;
         font-size: 24px;
         color: #3a4245 !important;
     }
 
-    .career-com {
+    .Initiative-com {
         font-family: "Lato", sans-serif;
         font-size: 20px;
         margin: 10px 0 !important;
@@ -34,7 +34,7 @@
         color: #c23421 !important;
     }
 
-    .career-date {
+    .Initiative-date {
         font-family: "Lato", sans-serif;
         font-size: 16px;
         margin: 10px 0 !important;
@@ -43,7 +43,7 @@
         color: #c23421 !important;
     }
 
-    .career-sum {
+    .Initiative-sum {
         font-family: "Lato", sans-serif;
         font-size: 14px;
         margin-top: 20px;
@@ -65,15 +65,15 @@
     }
 
 </style>
-<div class="careers">
+<div class="Initiatives">
 
-    {% for career in include.careers %}
-    <div class="career">
-        <a href="{{ career.link}}" class="link-tag"></a>
-        <span class="career-title">{{ career.title }}</span>
-        <span class="career-com">{{ career.com }}</span>
-        <span>Apply by: <span class="career-date">{{ career.date }}</span></span>
-        <span class="career-sum">{{ career.sum }}</span>
+    {% for Initiative in include.Initiatives %}
+    <div class="Initiative">
+        <a href="{{ Initiative.link}}" class="link-tag"></a>
+        <span class="Initiative-title">{{ Initiative.title }}</span>
+        <span class="Initiative-com">{{ Initiative.com }}</span>
+        <span>Apply by: <span class="Initiative-date">{{ Initiative.date }}</span></span>
+        <span class="Initiative-sum">{{ Initiative.sum }}</span>
     </div>
     {% endfor %}
 
