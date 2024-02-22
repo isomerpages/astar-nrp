@@ -1,6 +1,4 @@
 collections:
   initiatives:
     output: true
-    order:
-      - terms-of-use.md
-      - privacy.md
+    order: []
