@@ -1,6 +1,5 @@
 ---
-title: Overview
+title: RoboCluster 
 permalink: /Initiatives/
 ---
-We have current and upcoming openings in:
-1. [Research Partners](/careers/research)
+More details on RoboCluster to be announced soon.
